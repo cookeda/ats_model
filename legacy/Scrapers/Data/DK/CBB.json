@@ -1,0 +1,926 @@
+[
+    [
+        {
+            "BetTableId": "DK_8461e765_a4b081c8_CBB",
+            "Odds Table": {
+                "Book Name": "DK",
+                "Away Spread": "+7.5",
+                "Away Spread Odds": "−115",
+                "Away ML": "+650",
+                "Home Spread": "-7.5",
+                "Home Spread Odds": "-7.5",
+                "Home ML": "−1150",
+                "Total": "158.5",
+                "Over Total Odds": "−115",
+                "Under Total Odds": "−115"
+            },
+            "MatchupID": "8461e765_a4b081c8_CBB",
+            "Info Table": {
+                "Away Team": "New Mexico",
+                "Away Team Rank Name": "New Mexico",
+                "Away ID": "8461e765",
+                "Home Team": "Saint Johns",
+                "Home Team Rank Name": "St Johns",
+                "Home ID": "a4b081c8",
+                "Start Time": "-999",
+                "League": "CBB"
+            }
+        }
+    ],
+    [
+        {
+            "BetTableId": "DK_70e68ed3_911ac0e5_CBB",
+            "Odds Table": {
+                "Book Name": "DK",
+                "Away Spread": "-6.5",
+                "Away Spread Odds": "−120",
+                "Away ML": "−920",
+                "Home Spread": "+6.5",
+                "Home Spread Odds": "+6.5",
+                "Home ML": "+550",
+                "Total": "196.5",
+                "Over Total Odds": "−125",
+                "Under Total Odds": "−105"
+            },
+            "MatchupID": "70e68ed3_911ac0e5_CBB",
+            "Info Table": {
+                "Away Team": "William & Mary",
+                "Away Team Rank Name": "Wm & Mary",
+                "Away ID": "70e68ed3",
+                "Home Team": "Georgia Southern",
+                "Home Team Rank Name": "GA Southern",
+                "Home ID": "911ac0e5",
+                "Start Time": "-999",
+                "League": "CBB"
+            }
+        }
+    ],
+    [
+        {
+            "BetTableId": "DK_ece574c8_6c7d9b03_CBB",
+            "Odds Table": {
+                "Book Name": "DK",
+                "Away Spread": "+21.5",
+                "Away Spread Odds": "−105",
+                "Away ML": "-999",
+                "Home Spread": "-23.5",
+                "Home Spread Odds": "-23.5",
+                "Home ML": "-999",
+                "Total": "9",
+                "Over Total Odds": "-999",
+                "Under Total Odds": "-999"
+            },
+            "MatchupID": "ece574c8_6c7d9b03_CBB",
+            "Info Table": {
+                "Away Team": "Canisius",
+                "Away Team Rank Name": "Canisius",
+                "Away ID": "ece574c8",
+                "Home Team": "Western Michigan",
+                "Home Team Rank Name": "W Michigan",
+                "Home ID": "6c7d9b03",
+                "Start Time": "-999",
+                "League": "CBB"
+            }
+        }
+    ],
+    [
+        {
+            "BetTableId": "DK_9f03553e_ec0928a8_CBB",
+            "Odds Table": {
+                "Book Name": "DK",
+                "Away Spread": "-4.5",
+                "Away Spread Odds": "−110",
+                "Away ML": "−238",
+                "Home Spread": "+4.5",
+                "Home Spread Odds": "+4.5",
+                "Home ML": "+180",
+                "Total": "140.5",
+                "Over Total Odds": "−120",
+                "Under Total Odds": "−110"
+            },
+            "MatchupID": "9f03553e_ec0928a8_CBB",
+            "Info Table": {
+                "Away Team": "Princeton",
+                "Away Team Rank Name": "Princeton",
+                "Away ID": "9f03553e",
+                "Home Team": "Merrimack",
+                "Home Team Rank Name": "Merrimack",
+                "Home ID": "ec0928a8",
+                "Start Time": "-999",
+                "League": "CBB"
+            }
+        }
+    ],
+    [
+        {
+            "BetTableId": "DK_afc67af7_Unknown_CBB",
+            "Odds Table": {
+                "Book Name": "DK",
+                "Away Spread": "-4.5",
+                "Away Spread Odds": "−125",
+                "Away ML": "−280",
+                "Home Spread": "+4.5",
+                "Home Spread Odds": "+4.5",
+                "Home ML": "+210",
+                "Total": "142.5",
+                "Over Total Odds": "−110",
+                "Under Total Odds": "−120"
+            },
+            "MatchupID": "afc67af7_Unknown_CBB",
+            "Info Table": {
+                "Away Team": "Stonehill",
+                "Away Team Rank Name": "Stonehill",
+                "Away ID": "afc67af7",
+                "Home Team": "Lindenwood",
+                "Home Team Rank Name": "Unknown",
+                "Home ID": "Unknown",
+                "Start Time": "-999",
+                "League": "CBB"
+            }
+        }
+    ],
+    [
+        {
+            "BetTableId": "DK_e27d88db_2f04d4c7_CBB",
+            "Odds Table": {
+                "Book Name": "DK",
+                "Away Spread": "-10.5",
+                "Away Spread Odds": "−120",
+                "Away ML": "−810",
+                "Home Spread": "+10.5",
+                "Home Spread Odds": "+10.5",
+                "Home ML": "+500",
+                "Total": "160.5",
+                "Over Total Odds": "−115",
+                "Under Total Odds": "−115"
+            },
+            "MatchupID": "e27d88db_2f04d4c7_CBB",
+            "Info Table": {
+                "Away Team": "Saint Marys",
+                "Away Team Rank Name": "St Marys",
+                "Away ID": "e27d88db",
+                "Home Team": "Nebraska",
+                "Home Team Rank Name": "Nebraska",
+                "Home ID": "2f04d4c7",
+                "Start Time": "-999",
+                "League": "CBB"
+            }
+        }
+    ],
+    [
+        {
+            "BetTableId": "DK_Unknown_432646ed_CBB",
+            "Odds Table": {
+                "Book Name": "DK",
+                "Away Spread": "+2.5",
+                "Away Spread Odds": "−110",
+                "Away ML": "+130",
+                "Home Spread": "-2.5",
+                "Home Spread Odds": "-2.5",
+                "Home ML": "−166",
+                "Total": "144.5",
+                "Over Total Odds": "−120",
+                "Under Total Odds": "−110"
+            },
+            "MatchupID": "Unknown_432646ed_CBB",
+            "Info Table": {
+                "Away Team": "Campbell",
+                "Away Team Rank Name": "Unknown",
+                "Away ID": "Unknown",
+                "Home Team": "Navy",
+                "Home Team Rank Name": "Navy",
+                "Home ID": "432646ed",
+                "Start Time": "-999",
+                "League": "CBB"
+            }
+        }
+    ],
+    [
+        {
+            "BetTableId": "DK_11ff4566_10a6181b_CBB",
+            "Odds Table": {
+                "Book Name": "DK",
+                "Away Spread": "+1.5",
+                "Away Spread Odds": "−130",
+                "Away ML": "−115",
+                "Home Spread": "-1.5",
+                "Home Spread Odds": "-1.5",
+                "Home ML": "−115",
+                "Total": "142.5",
+                "Over Total Odds": "−120",
+                "Under Total Odds": "−110"
+            },
+            "MatchupID": "11ff4566_10a6181b_CBB",
+            "Info Table": {
+                "Away Team": "Clemson",
+                "Away Team Rank Name": "Clemson",
+                "Away ID": "11ff4566",
+                "Home Team": "Boise State",
+                "Home Team Rank Name": "Boise St",
+                "Home ID": "10a6181b",
+                "Start Time": "-999",
+                "League": "CBB"
+            }
+        }
+    ],
+    [
+        {
+            "BetTableId": "DK_faa56b52_8f2512bc_CBB",
+            "Odds Table": {
+                "Book Name": "DK",
+                "Away Spread": "+15",
+                "Away Spread Odds": "−115",
+                "Away ML": "+900",
+                "Home Spread": "-15",
+                "Home Spread Odds": "-15",
+                "Home ML": "−1600",
+                "Total": "143",
+                "Over Total Odds": "−112",
+                "Under Total Odds": "−108"
+            },
+            "MatchupID": "faa56b52_8f2512bc_CBB",
+            "Info Table": {
+                "Away Team": "Harvard",
+                "Away Team Rank Name": "Harvard",
+                "Away ID": "faa56b52",
+                "Home Team": "Colorado",
+                "Home Team Rank Name": "Colorado",
+                "Home ID": "8f2512bc",
+                "Start Time": "2:00PM",
+                "League": "CBB"
+            }
+        }
+    ],
+    [
+        {
+            "BetTableId": "DK_Unknown_Unknown_CBB",
+            "Odds Table": {
+                "Book Name": "DK",
+                "Away Spread": "+3",
+                "Away Spread Odds": "−112",
+                "Away ML": "+136",
+                "Home Spread": "-3",
+                "Home Spread Odds": "-3",
+                "Home ML": "−162",
+                "Total": "148",
+                "Over Total Odds": "−108",
+                "Under Total Odds": "−112"
+            },
+            "MatchupID": "Unknown_Unknown_CBB",
+            "Info Table": {
+                "Away Team": "North Carolina A&T",
+                "Away Team Rank Name": "Unknown",
+                "Away ID": "Unknown",
+                "Home Team": "The Citadel",
+                "Home Team Rank Name": "Unknown",
+                "Home ID": "Unknown",
+                "Start Time": "2:00PM",
+                "League": "CBB"
+            }
+        }
+    ],
+    [
+        {
+            "BetTableId": "DK_fe05d200_fa48f6b1_CBB",
+            "Odds Table": {
+                "Book Name": "DK",
+                "Away Spread": "-2.5",
+                "Away Spread Odds": "−108",
+                "Away ML": "−148",
+                "Home Spread": "+2.5",
+                "Home Spread Odds": "+2.5",
+                "Home ML": "+124",
+                "Total": "134.5",
+                "Over Total Odds": "−110",
+                "Under Total Odds": "−110"
+            },
+            "MatchupID": "fe05d200_fa48f6b1_CBB",
+            "Info Table": {
+                "Away Team": "Jacksonville State",
+                "Away Team Rank Name": "Jksnville St",
+                "Away ID": "fe05d200",
+                "Home Team": "Coastal Carolina",
+                "Home Team Rank Name": "Coastal Car",
+                "Home ID": "fa48f6b1",
+                "Start Time": "2:00PM",
+                "League": "CBB"
+            }
+        }
+    ],
+    [
+        {
+            "BetTableId": "DK_2fa05557_df9359d8_CBB",
+            "Odds Table": {
+                "Book Name": "DK",
+                "Away Spread": "-1",
+                "Away Spread Odds": "−105",
+                "Away ML": "−115",
+                "Home Spread": "+1",
+                "Home Spread Odds": "+1",
+                "Home ML": "−105",
+                "Total": "154.5",
+                "Over Total Odds": "−110",
+                "Under Total Odds": "−110"
+            },
+            "MatchupID": "2fa05557_df9359d8_CBB",
+            "Info Table": {
+                "Away Team": "Manhattan",
+                "Away Team Rank Name": "Manhattan",
+                "Away ID": "2fa05557",
+                "Home Team": "Fairleigh Dickinson",
+                "Home Team Rank Name": "F Dickinson",
+                "Home ID": "df9359d8",
+                "Start Time": "2:00PM",
+                "League": "CBB"
+            }
+        }
+    ],
+    [
+        {
+            "BetTableId": "DK_5eff2ccf_8d47be6d_CBB",
+            "Odds Table": {
+                "Book Name": "DK",
+                "Away Spread": "+37",
+                "Away Spread Odds": "−112",
+                "Away ML": "-999",
+                "Home Spread": "-37",
+                "Home Spread Odds": "-37",
+                "Home ML": "-999",
+                "Total": "141.5",
+                "Over Total Odds": "−108",
+                "Under Total Odds": "−112"
+            },
+            "MatchupID": "5eff2ccf_8d47be6d_CBB",
+            "Info Table": {
+                "Away Team": "Coppin State",
+                "Away Team Rank Name": "Coppin St",
+                "Away ID": "5eff2ccf",
+                "Home Team": "Miami FL",
+                "Home Team Rank Name": "Miami",
+                "Home ID": "8d47be6d",
+                "Start Time": "2:00PM",
+                "League": "CBB"
+            }
+        }
+    ],
+    [
+        {
+            "BetTableId": "DK_Unknown_1c46123_CBB",
+            "Odds Table": {
+                "Book Name": "DK",
+                "Away Spread": "+9.5",
+                "Away Spread Odds": "−108",
+                "Away ML": "+390",
+                "Home Spread": "-9.5",
+                "Home Spread Odds": "-9.5",
+                "Home ML": "−520",
+                "Total": "147.5",
+                "Over Total Odds": "−112",
+                "Under Total Odds": "−108"
+            },
+            "MatchupID": "Unknown_1c46123_CBB",
+            "Info Table": {
+                "Away Team": "NC Central",
+                "Away Team Rank Name": "Unknown",
+                "Away ID": "Unknown",
+                "Home Team": "Winthrop",
+                "Home Team Rank Name": "Winthrop",
+                "Home ID": "1c46123",
+                "Start Time": "2:30PM",
+                "League": "CBB"
+            }
+        }
+    ],
+    [
+        {
+            "BetTableId": "DK_44d5884d_1f9b9af4_CBB",
+            "Odds Table": {
+                "Book Name": "DK",
+                "Away Spread": "-5.5",
+                "Away Spread Odds": "−108",
+                "Away ML": "−225",
+                "Home Spread": "+5.5",
+                "Home Spread Odds": "+5.5",
+                "Home ML": "+185",
+                "Total": "140.5",
+                "Over Total Odds": "−112",
+                "Under Total Odds": "−108"
+            },
+            "MatchupID": "44d5884d_1f9b9af4_CBB",
+            "Info Table": {
+                "Away Team": "Holy Cross",
+                "Away Team Rank Name": "Holy Cross",
+                "Away ID": "44d5884d",
+                "Home Team": "New Hampshire",
+                "Home Team Rank Name": "N Hampshire",
+                "Home ID": "1f9b9af4",
+                "Start Time": "2:30PM",
+                "League": "CBB"
+            }
+        }
+    ],
+    [
+        {
+            "BetTableId": "DK_a999574d_10c6bc1b_CBB",
+            "Odds Table": {
+                "Book Name": "DK",
+                "Away Spread": "+5",
+                "Away Spread Odds": "−108",
+                "Away ML": "+170",
+                "Home Spread": "-5",
+                "Home Spread Odds": "-5",
+                "Home ML": "−205",
+                "Total": "160",
+                "Over Total Odds": "−112",
+                "Under Total Odds": "−108"
+            },
+            "MatchupID": "a999574d_10c6bc1b_CBB",
+            "Info Table": {
+                "Away Team": "Lipscomb",
+                "Away Team Rank Name": "Lipscomb",
+                "Away ID": "a999574d",
+                "Home Team": "Western Kentucky",
+                "Home Team Rank Name": "W Kentucky",
+                "Home ID": "10c6bc1b",
+                "Start Time": "3:00PM",
+                "League": "CBB"
+            }
+        }
+    ],
+    [
+        {
+            "BetTableId": "DK_7db5c80d_274bd9a0_CBB",
+            "Odds Table": {
+                "Book Name": "DK",
+                "Away Spread": "+12.5",
+                "Away Spread Odds": "−112",
+                "Away ML": "+575",
+                "Home Spread": "-12.5",
+                "Home Spread Odds": "-12.5",
+                "Home ML": "−850",
+                "Total": "158.5",
+                "Over Total Odds": "−112",
+                "Under Total Odds": "−108"
+            },
+            "MatchupID": "7db5c80d_274bd9a0_CBB",
+            "Info Table": {
+                "Away Team": "Texas Southern",
+                "Away Team Rank Name": "TX Southern",
+                "Away ID": "7db5c80d",
+                "Home Team": "Samford",
+                "Home Team Rank Name": "Samford",
+                "Home ID": "274bd9a0",
+                "Start Time": "3:00PM",
+                "League": "CBB"
+            }
+        }
+    ],
+    [
+        {
+            "BetTableId": "DK_b02a846a_e376d8ea_CBB",
+            "Odds Table": {
+                "Book Name": "DK",
+                "Away Spread": "+29",
+                "Away Spread Odds": "−108",
+                "Away ML": "-999",
+                "Home Spread": "-29",
+                "Home Spread Odds": "-29",
+                "Home ML": "-999",
+                "Total": "141",
+                "Over Total Odds": "−110",
+                "Under Total Odds": "−110"
+            },
+            "MatchupID": "b02a846a_e376d8ea_CBB",
+            "Info Table": {
+                "Away Team": "Austin Peay",
+                "Away Team Rank Name": "Austin Peay",
+                "Away ID": "b02a846a",
+                "Home Team": "Tennessee",
+                "Home Team Rank Name": "Tennessee",
+                "Home ID": "e376d8ea",
+                "Start Time": "3:00PM",
+                "League": "CBB"
+            }
+        }
+    ],
+    [
+        {
+            "BetTableId": "DK_4855a606_Unknown_CBB",
+            "Odds Table": {
+                "Book Name": "DK",
+                "Away Spread": "-8",
+                "Away Spread Odds": "−112",
+                "Away ML": "−375",
+                "Home Spread": "+8",
+                "Home Spread Odds": "+8",
+                "Home ML": "+295",
+                "Total": "147",
+                "Over Total Odds": "−110",
+                "Under Total Odds": "−110"
+            },
+            "MatchupID": "4855a606_Unknown_CBB",
+            "Info Table": {
+                "Away Team": "Chattanooga",
+                "Away Team Rank Name": "Chattanooga",
+                "Away ID": "4855a606",
+                "Home Team": "SE Missouri State",
+                "Home Team Rank Name": "Unknown",
+                "Home ID": "Unknown",
+                "Start Time": "3:00PM",
+                "League": "CBB"
+            }
+        }
+    ],
+    [
+        {
+            "BetTableId": "DK_ebc974a9_28889b3f_CBB",
+            "Odds Table": {
+                "Book Name": "DK",
+                "Away Spread": "+5",
+                "Away Spread Odds": "−108",
+                "Away ML": "+185",
+                "Home Spread": "-5",
+                "Home Spread Odds": "-5",
+                "Home ML": "−225",
+                "Total": "142.5",
+                "Over Total Odds": "−108",
+                "Under Total Odds": "−112"
+            },
+            "MatchupID": "ebc974a9_28889b3f_CBB",
+            "Info Table": {
+                "Away Team": "Liberty",
+                "Away Team Rank Name": "Liberty",
+                "Away ID": "ebc974a9",
+                "Home Team": "Charleston",
+                "Home Team Rank Name": "Col Charlestn",
+                "Home ID": "28889b3f",
+                "Start Time": "4:00PM",
+                "League": "CBB"
+            }
+        }
+    ],
+    [
+        {
+            "BetTableId": "DK_90dc27c_49165050_CBB",
+            "Odds Table": {
+                "Book Name": "DK",
+                "Away Spread": "+13.5",
+                "Away Spread Odds": "−115",
+                "Away ML": "+700",
+                "Home Spread": "-13.5",
+                "Home Spread Odds": "-13.5",
+                "Home ML": "−1100",
+                "Total": "147.5",
+                "Over Total Odds": "−110",
+                "Under Total Odds": "−110"
+            },
+            "MatchupID": "90dc27c_49165050_CBB",
+            "Info Table": {
+                "Away Team": "UC Davis",
+                "Away Team Rank Name": "UC Davis",
+                "Away ID": "90dc27c",
+                "Home Team": "Stanford",
+                "Home Team Rank Name": "Stanford",
+                "Home ID": "49165050",
+                "Start Time": "4:00PM",
+                "League": "CBB"
+            }
+        }
+    ],
+    [
+        {
+            "BetTableId": "DK_b1e0538c_248d8088_CBB",
+            "Odds Table": {
+                "Book Name": "DK",
+                "Away Spread": "+7.5",
+                "Away Spread Odds": "−110",
+                "Away ML": "+260",
+                "Home Spread": "-7.5",
+                "Home Spread Odds": "-7.5",
+                "Home ML": "−325",
+                "Total": "150",
+                "Over Total Odds": "−108",
+                "Under Total Odds": "−112"
+            },
+            "MatchupID": "b1e0538c_248d8088_CBB",
+            "Info Table": {
+                "Away Team": "Utah",
+                "Away Team Rank Name": "Utah",
+                "Away ID": "b1e0538c",
+                "Home Team": "Mississippi State",
+                "Home Team Rank Name": "Miss State",
+                "Home ID": "248d8088",
+                "Start Time": "4:00PM",
+                "League": "CBB"
+            }
+        }
+    ],
+    [
+        {
+            "BetTableId": "DK_6a3773e4_c3163343_CBB",
+            "Odds Table": {
+                "Book Name": "DK",
+                "Away Spread": "+9.5",
+                "Away Spread Odds": "−108",
+                "Away ML": "+340",
+                "Home Spread": "-9.5",
+                "Home Spread Odds": "-9.5",
+                "Home ML": "−440",
+                "Total": "141",
+                "Over Total Odds": "−110",
+                "Under Total Odds": "−110"
+            },
+            "MatchupID": "6a3773e4_c3163343_CBB",
+            "Info Table": {
+                "Away Team": "New Orleans",
+                "Away Team Rank Name": "New Orleans",
+                "Away ID": "6a3773e4",
+                "Home Team": "Robert Morris",
+                "Home Team Rank Name": "Rob Morris",
+                "Home ID": "c3163343",
+                "Start Time": "4:00PM",
+                "League": "CBB"
+            }
+        }
+    ],
+    [
+        {
+            "BetTableId": "DK_Unknown_c5d14b16_CBB",
+            "Odds Table": {
+                "Book Name": "DK",
+                "Away Spread": "+12.5",
+                "Away Spread Odds": "−105",
+                "Away ML": "+650",
+                "Home Spread": "-12.5",
+                "Home Spread Odds": "-12.5",
+                "Home ML": "−1000",
+                "Total": "147",
+                "Over Total Odds": "−108",
+                "Under Total Odds": "−112"
+            },
+            "MatchupID": "Unknown_c5d14b16_CBB",
+            "Info Table": {
+                "Away Team": "Troy",
+                "Away Team Rank Name": "Unknown",
+                "Away ID": "Unknown",
+                "Home Team": "Oregon",
+                "Home Team Rank Name": "Oregon",
+                "Home ID": "c5d14b16",
+                "Start Time": "5:00PM",
+                "League": "CBB"
+            }
+        }
+    ],
+    [
+        {
+            "BetTableId": "DK_a60f3d3e_8cc9aa23_CBB",
+            "Odds Table": {
+                "Book Name": "DK",
+                "Away Spread": "-6.5",
+                "Away Spread Odds": "−108",
+                "Away ML": "−265",
+                "Home Spread": "+6.5",
+                "Home Spread Odds": "+6.5",
+                "Home ML": "+215",
+                "Total": "146",
+                "Over Total Odds": "−108",
+                "Under Total Odds": "−112"
+            },
+            "MatchupID": "a60f3d3e_8cc9aa23_CBB",
+            "Info Table": {
+                "Away Team": "UC Santa Barbara",
+                "Away Team Rank Name": "UCSB",
+                "Away ID": "a60f3d3e",
+                "Home Team": "San Jose State",
+                "Home Team Rank Name": "San Jose St",
+                "Home ID": "8cc9aa23",
+                "Start Time": "5:00PM",
+                "League": "CBB"
+            }
+        }
+    ],
+    [
+        {
+            "BetTableId": "DK_d8e97a2c_5a59c0b6_CBB",
+            "Odds Table": {
+                "Book Name": "DK",
+                "Away Spread": "-6.5",
+                "Away Spread Odds": "−112",
+                "Away ML": "−285",
+                "Home Spread": "+6.5",
+                "Home Spread Odds": "+6.5",
+                "Home ML": "+230",
+                "Total": "150",
+                "Over Total Odds": "−110",
+                "Under Total Odds": "−110"
+            },
+            "MatchupID": "d8e97a2c_5a59c0b6_CBB",
+            "Info Table": {
+                "Away Team": "Sam Houston",
+                "Away Team Rank Name": "Sam Hous St",
+                "Away ID": "d8e97a2c",
+                "Home Team": "Lamar",
+                "Home Team Rank Name": "Lamar",
+                "Home ID": "5a59c0b6",
+                "Start Time": "5:00PM",
+                "League": "CBB"
+            }
+        }
+    ],
+    [
+        {
+            "BetTableId": "DK_7f7334f3_acd8bb50_CBB",
+            "Odds Table": {
+                "Book Name": "DK",
+                "Away Spread": "+8.5",
+                "Away Spread Odds": "−108",
+                "Away ML": "+310",
+                "Home Spread": "-8.5",
+                "Home Spread Odds": "-8.5",
+                "Home ML": "−395",
+                "Total": "146",
+                "Over Total Odds": "−108",
+                "Under Total Odds": "−112"
+            },
+            "MatchupID": "7f7334f3_acd8bb50_CBB",
+            "Info Table": {
+                "Away Team": "Sacred Heart",
+                "Away Team Rank Name": "Sacred Hrt",
+                "Away ID": "7f7334f3",
+                "Home Team": "Brown",
+                "Home Team Rank Name": "Brown",
+                "Home ID": "acd8bb50",
+                "Start Time": "6:00PM",
+                "League": "CBB"
+            }
+        }
+    ],
+    [
+        {
+            "BetTableId": "DK_3911d39f_538a748e_CBB",
+            "Odds Table": {
+                "Book Name": "DK",
+                "Away Spread": "+4.5",
+                "Away Spread Odds": "−108",
+                "Away ML": "+170",
+                "Home Spread": "-4.5",
+                "Home Spread Odds": "-4.5",
+                "Home ML": "−205",
+                "Total": "158.5",
+                "Over Total Odds": "−108",
+                "Under Total Odds": "−112"
+            },
+            "MatchupID": "3911d39f_538a748e_CBB",
+            "Info Table": {
+                "Away Team": "Cal Poly",
+                "Away Team Rank Name": "Cal Poly",
+                "Away ID": "3911d39f",
+                "Home Team": "Eastern Washington",
+                "Home Team Rank Name": "E Washingtn",
+                "Home ID": "538a748e",
+                "Start Time": "7:00PM",
+                "League": "CBB"
+            }
+        }
+    ],
+    [
+        {
+            "BetTableId": "DK_975a3d37_6992c2d9_CBB",
+            "Odds Table": {
+                "Book Name": "DK",
+                "Away Spread": "+12",
+                "Away Spread Odds": "−105",
+                "Away ML": "+600",
+                "Home Spread": "-12",
+                "Home Spread Odds": "-12",
+                "Home ML": "−900",
+                "Total": "145",
+                "Over Total Odds": "−110",
+                "Under Total Odds": "−110"
+            },
+            "MatchupID": "975a3d37_6992c2d9_CBB",
+            "Info Table": {
+                "Away Team": "Saint Thomas MN",
+                "Away Team Rank Name": "St. Thomas",
+                "Away ID": "975a3d37",
+                "Home Team": "Arizona State",
+                "Home Team Rank Name": "Arizona St",
+                "Home ID": "6992c2d9",
+                "Start Time": "8:00PM",
+                "League": "CBB"
+            }
+        }
+    ],
+    [
+        {
+            "BetTableId": "DK_b3c19fc8_5c94ee13_CBB",
+            "Odds Table": {
+                "Book Name": "DK",
+                "Away Spread": "+31.5",
+                "Away Spread Odds": "−112",
+                "Away ML": "-999",
+                "Home Spread": "-31.5",
+                "Home Spread Odds": "-31.5",
+                "Home ML": "-999",
+                "Total": "144",
+                "Over Total Odds": "−112",
+                "Under Total Odds": "−108"
+            },
+            "MatchupID": "b3c19fc8_5c94ee13_CBB",
+            "Info Table": {
+                "Away Team": "Tarleton State",
+                "Away Team Rank Name": "Tarleton St",
+                "Away ID": "b3c19fc8",
+                "Home Team": "Baylor",
+                "Home Team Rank Name": "Baylor",
+                "Home ID": "5c94ee13",
+                "Start Time": "8:00PM",
+                "League": "CBB"
+            }
+        }
+    ],
+    [
+        {
+            "BetTableId": "DK_8c4ffe36_eb752bf4_CBB",
+            "Odds Table": {
+                "Book Name": "DK",
+                "Away Spread": "+8",
+                "Away Spread Odds": "−108",
+                "Away ML": "+320",
+                "Home Spread": "-8",
+                "Home Spread Odds": "-8",
+                "Home ML": "−410",
+                "Total": "153",
+                "Over Total Odds": "−108",
+                "Under Total Odds": "−112"
+            },
+            "MatchupID": "8c4ffe36_eb752bf4_CBB",
+            "Info Table": {
+                "Away Team": "California",
+                "Away Team Rank Name": "California",
+                "Away ID": "8c4ffe36",
+                "Home Team": "USC",
+                "Home Team Rank Name": "USC",
+                "Home ID": "eb752bf4",
+                "Start Time": "9:30PM",
+                "League": "CBB"
+            }
+        }
+    ],
+    [
+        {
+            "BetTableId": "DK_c82485dd_c937477f_CBB",
+            "Odds Table": {
+                "Book Name": "DK",
+                "Away Spread": "+5",
+                "Away Spread Odds": "−108",
+                "Away ML": "+185",
+                "Home Spread": "-5",
+                "Home Spread Odds": "-5",
+                "Home ML": "−225",
+                "Total": "134.5",
+                "Over Total Odds": "−110",
+                "Under Total Odds": "−110"
+            },
+            "MatchupID": "c82485dd_c937477f_CBB",
+            "Info Table": {
+                "Away Team": "Weber State",
+                "Away Team Rank Name": "Weber St",
+                "Away ID": "c82485dd",
+                "Home Team": "Hawaii",
+                "Home Team Rank Name": "Hawaii",
+                "Home ID": "c937477f",
+                "Start Time": "10:00PM",
+                "League": "CBB"
+            }
+        }
+    ],
+    [
+        {
+            "BetTableId": "DK_3a726808_dd4357ee_CBB",
+            "Odds Table": {
+                "Book Name": "DK",
+                "Away Spread": "+10",
+                "Away Spread Odds": "−112",
+                "Away ML": "+380",
+                "Home Spread": "-10",
+                "Home Spread Odds": "-10",
+                "Home ML": "−500",
+                "Total": "155",
+                "Over Total Odds": "−112",
+                "Under Total Odds": "−108"
+            },
+            "MatchupID": "3a726808_dd4357ee_CBB",
+            "Info Table": {
+                "Away Team": "UMass Lowell",
+                "Away Team Rank Name": "Mass Lowell",
+                "Away ID": "3a726808",
+                "Home Team": "Washington",
+                "Home Team Rank Name": "Washington",
+                "Home ID": "dd4357ee",
+                "Start Time": "10:30PM",
+                "League": "CBB"
+            }
+        }
+    ]
+]

@@ -1,0 +1,14 @@
+                       date league betting_advice cover_true  cover_rating over_true  over_rating
+count                   226    226            226        226    226.000000       226   226.000000
+unique                   14      2             38          2           NaN         2          NaN
+top     2024-04-20 00:00:00    MLB     Washington      False           NaN      True          NaN
+freq                     20    190             12        115           NaN       124          NaN
+first   2024-04-15 00:00:00    NaN            NaN        NaN           NaN       NaN          NaN
+last    2024-04-28 00:00:00    NaN            NaN        NaN           NaN       NaN          NaN
+mean                    NaN    NaN            NaN        NaN      5.165467       NaN     5.209798
+std                     NaN    NaN            NaN        NaN      3.806656       NaN     0.699707
+min                     NaN    NaN            NaN        NaN      0.000000       NaN     3.029175
+25%                     NaN    NaN            NaN        NaN      2.000000       NaN     4.859344
+50%                     NaN    NaN            NaN        NaN      4.300000       NaN     5.284562
+75%                     NaN    NaN            NaN        NaN      7.600000       NaN     5.631344
+max                     NaN    NaN            NaN        NaN     14.200000       NaN     7.122025

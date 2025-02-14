@@ -1,0 +1,57 @@
+Phoenix @ Minnesota (NBA): Cover Rating - 1.0, Over Score - 1.0
+Bet on Minnesota to cover the spread.
+Miami @ Indiana (NBA): Cover Rating - 1.0, Over Score - 1.0
+Bet on Indiana to cover the spread.
+Charlotte @ Cleveland (NBA): Cover Rating - 1.0, Over Score - 1.0
+Bet on Cleveland to cover the spread.
+Denver @ Memphis (NBA): Cover Rating - 1.0, Over Score - 1.0
+Bet on Memphis to cover the spread.
+Detroit @ Washington (NBA): Cover Rating - 5.0, Over Score - 1.0
+Bet on Washington to cover the spread.
+Atlanta @ Portland (NBA): Cover Rating - 5.0, Over Score - 1.0
+Bet on Portland to cover the spread.
+Brooklyn @ New York (NBA): Cover Rating - 1.0, Over Score - 1.0
+Bet on New York to cover the spread.
+Dallas @ Okla City (NBA): Cover Rating - 1.0, Over Score - 1.0
+Bet on Okla City to cover the spread.
+Houston @ Chicago (NBA): Cover Rating - 5.0, Over Score - 1.0
+Bet on Chicago to cover the spread.
+Utah @ LA Clippers (NBA): Cover Rating - 1.0, Over Score - 1.0
+Bet on LA Clippers to cover the spread.
+
+Ranked Cover Recommendations Across All Leagues:
+Detroit @ Washington (NBA): Cover Rating - 5.0, Bet on Washington to cover the spread.
+Atlanta @ Portland (NBA): Cover Rating - 5.0, Bet on Portland to cover the spread.
+Houston @ Chicago (NBA): Cover Rating - 5.0, Bet on Chicago to cover the spread.
+Phoenix @ Minnesota (NBA): Cover Rating - 1.0, Bet on Minnesota to cover the spread.
+Miami @ Indiana (NBA): Cover Rating - 1.0, Bet on Indiana to cover the spread.
+Charlotte @ Cleveland (NBA): Cover Rating - 1.0, Bet on Cleveland to cover the spread.
+Denver @ Memphis (NBA): Cover Rating - 1.0, Bet on Memphis to cover the spread.
+Brooklyn @ New York (NBA): Cover Rating - 1.0, Bet on New York to cover the spread.
+Dallas @ Okla City (NBA): Cover Rating - 1.0, Bet on Okla City to cover the spread.
+Utah @ LA Clippers (NBA): Cover Rating - 1.0, Bet on LA Clippers to cover the spread.
+
+Ranked Games by Over Score Across All Leagues:
+Phoenix @ Minnesota (NBA): Over Score - 1.0
+Miami @ Indiana (NBA): Over Score - 1.0
+Charlotte @ Cleveland (NBA): Over Score - 1.0
+Denver @ Memphis (NBA): Over Score - 1.0
+Detroit @ Washington (NBA): Over Score - 1.0
+Atlanta @ Portland (NBA): Over Score - 1.0
+Brooklyn @ New York (NBA): Over Score - 1.0
+Dallas @ Okla City (NBA): Over Score - 1.0
+Houston @ Chicago (NBA): Over Score - 1.0
+Utah @ LA Clippers (NBA): Over Score - 1.0
+         date league  cover_rating  ...  total  home_team    away_team
+0  2025-01-12    NBA           1.0  ...  218.5    Phoenix    Minnesota
+1  2025-01-12    NBA           1.0  ...  228.0      Miami      Indiana
+2  2025-01-12    NBA           1.0  ...  222.5  Charlotte    Cleveland
+3  2025-01-12    NBA           1.0  ...  228.5     Denver      Memphis
+4  2025-01-12    NBA           5.0  ...  230.5    Detroit   Washington
+5  2025-01-12    NBA           5.0  ...  229.0    Atlanta     Portland
+6  2025-01-12    NBA           1.0  ...  219.5   Brooklyn     New York
+7  2025-01-12    NBA           1.0  ...  229.0     Dallas    Okla City
+8  2025-01-12    NBA           5.0  ...  234.0    Houston      Chicago
+9  2025-01-12    NBA           1.0  ...  221.5       Utah  LA Clippers
+
+[10 rows x 10 columns]
