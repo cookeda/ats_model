@@ -1,0 +1,110 @@
+[
+    [
+        {
+            "Scrape Time": "2024-12-31 06:57:16",
+            "Book Name": "DK",
+            "Away Team": "TOR Raptors",
+            "Away Spread": "+17",
+            "Away Spread Odds": "−108",
+            "Away ML": "+1000",
+            "Home Team": "BOS Celtics",
+            "Home Spread": "-17",
+            "Home Spread Odds": "−112",
+            "Home ML": "−1800",
+            "Total": "233.5",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "3:10PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-12-31 06:57:19",
+            "Book Name": "DK",
+            "Away Team": "MIL Bucks",
+            "Away Spread": "-1.5",
+            "Away Spread Odds": "−108",
+            "Away ML": "−120",
+            "Home Team": "IND Pacers",
+            "Home Spread": "+1.5",
+            "Home Spread Odds": "−112",
+            "Home ML": "+100",
+            "Total": "230",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "3:10PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-12-31 06:57:21",
+            "Book Name": "DK",
+            "Away Team": "LA Clippers",
+            "Away Spread": "+4",
+            "Away Spread Odds": "−110",
+            "Away ML": "+145",
+            "Home Team": "SA Spurs",
+            "Home Spread": "-4",
+            "Home Spread Odds": "−110",
+            "Home ML": "−175",
+            "Total": "217.5",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "7:10PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-12-31 06:57:24",
+            "Book Name": "DK",
+            "Away Team": "MIN Timberwolves",
+            "Away Spread": "+7.5",
+            "Away Spread Odds": "−115",
+            "Away ML": "+240",
+            "Home Team": "OKC Thunder",
+            "Home Spread": "-7.5",
+            "Home Spread Odds": "−105",
+            "Home ML": "−298",
+            "Total": "216",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "8:10PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-12-31 06:57:27",
+            "Book Name": "DK",
+            "Away Team": "CLE Cavaliers",
+            "Away Spread": "-4",
+            "Away Spread Odds": "−110",
+            "Away ML": "−180",
+            "Home Team": "LA Lakers",
+            "Home Spread": "+4",
+            "Home Spread Odds": "−110",
+            "Home ML": "+150",
+            "Total": "229",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "9:10PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-12-31 06:57:29",
+            "Book Name": "DK",
+            "Away Team": "MEM Grizzlies",
+            "Away Spread": "+5.5",
+            "Away Spread Odds": "−108",
+            "Away ML": "+185",
+            "Home Team": "PHO Suns",
+            "Home Spread": "-5.5",
+            "Home Spread Odds": "−112",
+            "Home ML": "−225",
+            "Total": "235.5",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "9:10PM"
+        }
+    ]
+]

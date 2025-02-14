@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "Scrape Time": "2025-01-28 09:22:46",
+            "Book Name": "DK",
+            "Away Team": "LA Lakers",
+            "Away Spread": "-3.5",
+            "Away Spread Odds": "−112",
+            "Away ML": "−175",
+            "Home Team": "PHI 76ers",
+            "Home Spread": "+3.5",
+            "Home Spread Odds": "−108",
+            "Home ML": "+145",
+            "Total": "216",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "7:30PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-28 09:22:49",
+            "Book Name": "DK",
+            "Away Team": "HOU Rockets",
+            "Away Spread": "-7",
+            "Away Spread Odds": "−108",
+            "Away ML": "−258",
+            "Home Team": "ATL Hawks",
+            "Home Spread": "+7",
+            "Home Spread Odds": "−112",
+            "Home ML": "+210",
+            "Total": "227",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "7:40PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-28 09:22:51",
+            "Book Name": "DK",
+            "Away Team": "MIL Bucks",
+            "Away Spread": "-5.5",
+            "Away Spread Odds": "−108",
+            "Away ML": "−225",
+            "Home Team": "POR Trail Blazers",
+            "Home Spread": "+5.5",
+            "Home Spread Odds": "−112",
+            "Home ML": "+185",
+            "Total": "229",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "10:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-28 09:22:54",
+            "Book Name": "DK",
+            "Away Team": "UTA Jazz",
+            "Away Spread": "+12",
+            "Away Spread Odds": "−108",
+            "Away ML": "+500",
+            "Home Team": "GS Warriors",
+            "Home Spread": "-12",
+            "Home Spread Odds": "−112",
+            "Home ML": "−700",
+            "Total": "228",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "10:10PM"
+        }
+    ]
+]

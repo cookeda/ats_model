@@ -1,0 +1,110 @@
+[
+    [
+        {
+            "Scrape Time": "2025-01-02 09:16:37",
+            "Book Name": "DK",
+            "Away Team": "BOS Celtics",
+            "Away Spread": "-4",
+            "Away Spread Odds": "−108",
+            "Away ML": "−170",
+            "Home Team": "MIN Timberwolves",
+            "Home Spread": "+4",
+            "Home Spread Odds": "−112",
+            "Home ML": "+142",
+            "Total": "220",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "7:30PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-02 09:16:40",
+            "Book Name": "DK",
+            "Away Team": "IND Pacers",
+            "Away Spread": "+1.5",
+            "Away Spread Odds": "−112",
+            "Away ML": "+100",
+            "Home Team": "MIA Heat",
+            "Home Spread": "-1.5",
+            "Home Spread Odds": "−108",
+            "Home ML": "−120",
+            "Total": "223.5",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "7:40PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-02 09:16:42",
+            "Book Name": "DK",
+            "Away Team": "LA Clippers",
+            "Away Spread": "+9.5",
+            "Away Spread Odds": "−110",
+            "Away ML": "+340",
+            "Home Team": "OKC Thunder",
+            "Home Spread": "-9.5",
+            "Home Spread Odds": "−110",
+            "Home ML": "−440",
+            "Total": "218",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "8:10PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-02 09:16:45",
+            "Book Name": "DK",
+            "Away Team": "BKN Nets",
+            "Away Spread": "+14",
+            "Away Spread Odds": "−112",
+            "Away ML": "+575",
+            "Home Team": "MIL Bucks",
+            "Home Spread": "-14",
+            "Home Spread Odds": "−108",
+            "Home ML": "−850",
+            "Total": "219",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "8:10PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-02 09:16:48",
+            "Book Name": "DK",
+            "Away Team": "PHI 76ers",
+            "Away Spread": "+3",
+            "Away Spread Odds": "−108",
+            "Away ML": "+130",
+            "Home Team": "GS Warriors",
+            "Home Spread": "-3",
+            "Home Spread Odds": "−112",
+            "Home ML": "−155",
+            "Total": "217",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "10:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-02 09:16:50",
+            "Book Name": "DK",
+            "Away Team": "POR Trail Blazers",
+            "Away Spread": "+9",
+            "Away Spread Odds": "−108",
+            "Away ML": "+320",
+            "Home Team": "LA Lakers",
+            "Home Spread": "-9",
+            "Home Spread Odds": "−112",
+            "Home ML": "−410",
+            "Total": "224",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "10:40PM"
+        }
+    ]
+]

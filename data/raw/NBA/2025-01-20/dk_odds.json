@@ -1,0 +1,146 @@
+[
+    [
+        {
+            "Scrape Time": "2025-01-20 08:24:01",
+            "Book Name": "DK",
+            "Away Team": "DAL Mavericks",
+            "Away Spread": "-6",
+            "Away Spread Odds": "−112",
+            "Away ML": "−245",
+            "Home Team": "CHA Hornets",
+            "Home Spread": "+6",
+            "Home Spread Odds": "−108",
+            "Home ML": "+200",
+            "Total": "223.5",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "12:10PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-20 08:24:04",
+            "Book Name": "DK",
+            "Away Team": "DET Pistons",
+            "Away Spread": "+8",
+            "Away Spread Odds": "−108",
+            "Away ML": "+270",
+            "Home Team": "HOU Rockets",
+            "Home Spread": "-8",
+            "Home Spread Odds": "−112",
+            "Home ML": "−340",
+            "Total": "224",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "2:10PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-20 08:24:07",
+            "Book Name": "DK",
+            "Away Team": "MIN Timberwolves",
+            "Away Spread": "+6",
+            "Away Spread Odds": "−105",
+            "Away ML": "+200",
+            "Home Team": "MEM Grizzlies",
+            "Home Spread": "-6",
+            "Home Spread Odds": "−115",
+            "Home ML": "−245",
+            "Total": "235",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "2:30PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-20 08:24:09",
+            "Book Name": "DK",
+            "Away Team": "ATL Hawks",
+            "Away Spread": "+6.5",
+            "Away Spread Odds": "−115",
+            "Away ML": "+210",
+            "Home Team": "NY Knicks",
+            "Home Spread": "-6.5",
+            "Home Spread Odds": "−105",
+            "Home ML": "−258",
+            "Total": "235.5",
+            "Over Total Odds": "−118",
+            "Under Total Odds": "−102",
+            "Start Time": "3:10PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-20 08:24:12",
+            "Book Name": "DK",
+            "Away Team": "PHO Suns",
+            "Away Spread": "+7.5",
+            "Away Spread Odds": "−105",
+            "Away ML": "+245",
+            "Home Team": "CLE Cavaliers",
+            "Home Spread": "-7.5",
+            "Home Spread Odds": "−115",
+            "Home ML": "−305",
+            "Total": "235",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "3:40PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-20 08:24:15",
+            "Book Name": "DK",
+            "Away Team": "BOS Celtics",
+            "Away Spread": "-10.5",
+            "Away Spread Odds": "−108",
+            "Away ML": "−470",
+            "Home Team": "GS Warriors",
+            "Home Spread": "+10.5",
+            "Home Spread Odds": "−112",
+            "Home ML": "+360",
+            "Total": "224",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "5:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-20 08:24:17",
+            "Book Name": "DK",
+            "Away Team": "UTA Jazz",
+            "Away Spread": "+11",
+            "Away Spread Odds": "−105",
+            "Away ML": "+455",
+            "Home Team": "NO Pelicans",
+            "Home Spread": "-11",
+            "Home Spread Odds": "−115",
+            "Home ML": "−625",
+            "Total": "232.5",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "8:10PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-20 08:24:20",
+            "Book Name": "DK",
+            "Away Team": "CHI Bulls",
+            "Away Spread": "+5.5",
+            "Away Spread Odds": "−108",
+            "Away ML": "+180",
+            "Home Team": "LA Clippers",
+            "Home Spread": "-5.5",
+            "Home Spread Odds": "−112",
+            "Home ML": "−218",
+            "Total": "227",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "10:40PM"
+        }
+    ]
+]

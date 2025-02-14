@@ -1,0 +1,150 @@
+Rank,Hotness Score,Matchup,Time,Location
+1,99.3,#4 Alabama  at  #21 Texas A&M,8:00 PM,Reed Arena
+2,98.6,#5 Iowa St  at  #16 Texas Tech,2:00 PM,United Supermarkets Arena
+3,98.2,#20 Kentucky  at  #22 Miss State,8:30 PM,Humphrey Coliseum
+3,98.2,#11 Kansas  at  #30 Cincinnati,2:00 PM,Fifth Third Arena
+5,97.6,#6 Tennessee  at  #32 Texas,6:00 PM,Moody Center
+6,97.3,#8 Florida  at  #38 Arkansas,4:00 PM,Bud Walton Arena
+7,96.7,#43 Louisville  at  #25 Pittsburgh,12:00 PM,Petersen Events Center
+8,96.4,#40 Villanova  at  #23 St Johns,7:00 PM,Madison Square Garden
+9,96.2,#14 Baylor  at  #60 Arizona St,9:30 PM,Desert Financial Arena
+10,95.9,#50 Oklahoma  at  #35 Georgia,6:00 PM,Stegeman Coliseum
+11,95.4,#19 Connecticut  at  #68 Georgetown,2:00 PM,Capital One Arena
+12,95.3,#47 Indiana  at  #44 Iowa,8:00 PM,Carver-Hawkeye Arena
+13,95.1,#33 BYU  at  #62 TX Christian,2:00 PM,Ed and Rae Schollmaier Arena
+14,95.0,#53 Vanderbilt  at  #39 Missouri,3:30 PM,Mizzou Arena
+15,94.9,#42 San Diego St  at  #58 New Mexico,1:00 PM,The Pit
+16,94.8,#56 LSU  at  #29 Mississippi,6:00 PM,The Sandy and John Black Pavilion at Ole Miss
+17,94.5,#67 USC  at  #7 Illinois,12:00 PM,State Farm Center
+18,94.4,#61 Florida St  at  #36 Clemson,2:00 PM,Littlejohn Coliseum
+19,94.3,#75 UCF  at  #9 Arizona,10:00 PM,McKale Memorial Center
+20,94.1,#26 N Carolina  at  #74 NC State,4:00 PM,Lenovo Center
+21,93.8,#59 Boise St  at  #46 Utah St,9:00 PM,Dee Glen Smith Spectrum
+22,93.7,#73 Notre Dame  at  #2 Duke,12:00 PM,Cameron Indoor Stadium
+23,93.4,#1 Auburn  at  #79 S Carolina,1:00 PM,Colonial Life Arena
+24,93.3,#84 Wash State  at  #10 Gonzaga,9:00 PM,McCarthey Athletic Center
+25,93.2,#3 Houston  at  #86 Kansas St,6:00 PM,Bramlage Coliseum
+26,92.8,#45 Creighton  at  #78 Butler,12:00 PM,Hinkle Fieldhouse
+27,92.3,#66 UC Irvine  at  #64 UCSD,10:00 PM,LionTree Arena
+28,90.0,#72 San Francisco  at  #85 Santa Clara,7:00 PM,Leavey Center
+29,89.8,#96 GA Tech  at  #49 S Methodist,4:00 PM,Moody Coliseum
+30,89.5,#52 Xavier  at  #105 DePaul,4:00 PM,Wintrust Arena
+31,89.0,#98 Oklahoma St  at  #65 Utah,7:00 PM,Jon M. Huntsman Center
+32,88.0,#69 Wake Forest  at  #102 Miami,5:15 PM,Watsco Center
+33,86.2,#110 UNLV  at  #83 Colorado St,4:00 PM,Moby Arena
+34,85.0,#112 Virginia  at  #92 Stanford,4:00 PM,Maples Pavilion
+35,84.6,#111 Loyola-Chi  at  #97 St Josephs,3:00 PM,Michael J. Hagan Arena
+36,83.9,#129 Seton Hall  at  #76 Providence,5:00 PM,Amica Mutual Pavilion
+37,83.7,#80 Liberty  at  #134 LA Tech,8:00 PM,Thomas Assembly Center
+38,83.5,#101 Arkansas St  at  #119 Troy,4:30 PM,Trojan Arena
+39,82.9,#88 Bradley  at  #136 IL-Chicago,3:00 PM,Credit Union 1 Arena
+40,81.5,#130 NC-Grnsboro  at  #104 Samford,6:00 PM,Pete Hanna Center
+41,80.8,#103 N Iowa  at  #140 Illinois St,7:00 PM,CEFCU Arena - Home of the Redbirds
+42,79.8,#180 E Carolina  at  #34 Memphis,2:00 PM,FedExForum
+43,79.6,#128 VA Tech  at  #120 California,6:00 PM,Haas Pavilion
+44,77.4,#169 La Salle  at  #87 St Bonavent,12:00 PM,Reilly Center
+45,77.3,#151 Wofford  at  #118 Furman,12:00 PM,Bon Secours Wellness Arena
+46,76.0,#150 Jksnville St  at  #131 Middle Tenn,6:00 PM,Murphy Center
+47,75.7,#106 Syracuse  at  #177 Boston Col,3:00 PM,Conte Forum
+48,75.0,#197 Nicholls  at  #71 McNeese St,5:00 PM,Legacy Center
+49,74.9,#194 U Mass  at  #77 Geo Mason,2:00 PM,EagleBank Arena
+50,73.8,#143 S Florida  at  #158 Tulane,2:00 PM,Avron B. Fogelman Arena in Devlin Fieldhouse
+51,73.6,#186 Valparaiso  at  #107 Murray St,4:00 PM,CFSB Center
+52,73.4,#166 Cal Baptist  at  #135 Utah Valley,4:00 PM,UCCU Center
+53,73.3,#137 James Mad  at  #168 App State,1:00 PM,Holmes Convocation Center
+54,73.2,#133 NC-Wilmgton  at  #171 Hofstra,1:00 PM,David S. Mack Sports Complex
+55,72.8,#202 Brown  at  #90 Yale,12:00 PM,John J. Lee Amphitheater
+56,71.2,#156 Belmont  at  #165 Indiana St,1:00 PM,Hulman Center
+57,71.0,#175 N Mex State  at  #141 TX El Paso,9:00 PM,Don Haskins Center
+58,70.8,#124 Temple  at  #196 Rice,2:00 PM,Tudor Fieldhouse
+59,70.5,#145 Cornell  at  #178 Columbia,2:00 PM,Schiller Court in Francis S. Levien Gymnasium
+60,68.5,#108 Rhode Island  at  #221 Richmond,6:00 PM,Robins Center
+61,68.3,#179 Longwood  at  #162 Winthrop,2:00 PM,Winthrop Coliseum
+62,67.4,#183 Towson  at  #163 Drexel,2:00 PM,Daskalakis Athletic Center
+63,67.3,#220 Fordham  at  #115 Davidson,2:00 PM,McKillop Court at John M. Belk Arena
+64,66.9,#207 Kennesaw St  at  #139 W Kentucky,3:00 PM,E.A. Diddle Arena
+65,66.3,#228 Gard-Webb  at  #113 High Point,7:00 PM,Nido and Mariana Qubein Arena
+66,66.2,#164 Loyola Mymt  at  #193 Pepperdine,7:30 PM,Firestone Fieldhouse
+67,65.4,#187 Vermont  at  #174 Bryant,4:00 PM,Chace Athletic Center
+68,65.2,#213 TX-Pan Am  at  #146 TX A&M-CC,4:30 PM,American Bank Center
+69,64.7,#160 N Colorado  at  #205 Montana,6:00 PM,Dahlberg Arena/Robin Selvig Court
+70,63.8,#199 Cleveland St  at  #173 Youngs St,2:00 PM,Zidian Family Arena at Beeghly Center
+71,63.5,#235 South Dakota  at  #125 St. Thomas,8:00 PM,Schoenecker Arena
+72,63.2,#57 Nevada  at  #278 Fresno St,7:00 PM,Save Mart Center
+73,62.6,#152 Cal St Nrdge  at  #226 CS Bakersfld,9:30 PM,Icardo Center
+74,62.5,#262 Evansville  at  #91 Drake,6:00 PM,Knapp Center
+75,60.8,#238 Abl Christian  at  #147 Seattle,10:00 PM,Redhawk Center
+76,60.2,#123 Wichita St  at  #260 UTSA,4:00 PM,Convocation Center
+77,59.7,#127 S Dakota St  at  #261 Neb Omaha,2:00 PM,Baxter Arena
+78,59.3,#117 Col Charlestn  at  #267 Monmouth,1:00 PM,OceanFirst Bank Center
+78,59.3,#89 Oregon St  at  #283 Pacific,10:00 PM,Alex G. Spanos Center
+80,59.0,#55 St Marys  at  #300 San Diego,10:00 PM,Jenny Craig Pavilion
+81,58.3,#122 Princeton  at  #273 Harvard,2:00 PM,Lavietes Pavilion
+82,57.1,#241 Florida Intl  at  #172 Sam Hous St,3:30 PM,Bernard G. Johnson Coliseum
+83,55.3,#210 Weber St  at  #218 Idaho St,8:00 PM,Holt Arena
+84,55.1,#222 Oakland  at  #208 N Kentucky,6:00 PM,Truist Arena
+85,54.8,#185 NC-Asheville  at  #246 Presbyterian,2:00 PM,Ross E. Templeton Physical Education Center
+85,54.8,#192 TX-Arlington  at  #240 S Utah,8:30 PM,America First Events Center
+87,54.1,#149 UCSB  at  #279 Cal Poly,8:00 PM,Mott Athletics Center
+88,52.6,#212 Jacksonville  at  #236 E Kentucky,4:00 PM,Baptist Health Arena
+89,52.3,#154 Texas St  at  #285 S Mississippi,3:00 PM,Reed Green Coliseum
+90,52.2,#230 Ste F Austin  at  #215 Lamar,7:00 PM,Neches Federal Credit Union Arena at the Montagne
+91,51.7,#253 N Arizona  at  #195 Montana St,8:00 PM,Brick Breeden Fieldhouse
+92,50.6,#314 Old Dominion  at  #114 S Alabama,3:00 PM,Mitchell Center
+93,48.7,#225 Missouri St  at  #247 S Illinois,7:00 PM,Banterra Center
+94,48.4,#292 W Michigan  at  #167 Miami (OH),3:30 PM,Millett Hall
+95,48.0,#211 Delaware  at  #263 Hampton,2:00 PM,Hampton Convocation Center
+96,47.3,#144 Akron  at  #318 E Michigan,3:30 PM,George Gervin GameAbove Center
+97,47.2,#249 Albany  at  #231 Maine,2:00 PM,Memorial Gym
+98,47.0,#340 W Georgia  at  #99 Lipscomb,5:00 PM,Allen Arena
+99,45.7,#330 Detroit  at  #132 IPFW,7:00 PM,Allen County War Memorial Coliseum
+100,45.4,#227 Charlotte  at  #265 Tulsa,6:00 PM,Reynolds Center
+101,45.3,#201 San Jose St  at  #286 Air Force,3:00 PM,Clune Arena
+102,44.5,#287 GA Southern  at  #203 Marshall,4:00 PM,Cam Henderson Center
+103,44.3,#254 Idaho  at  #244 Portland St,5:00 PM,Viking Pavilion
+104,44.2,#256 Boston U  at  #242 Colgate,2:00 PM,Cotterell Court
+105,42.1,#259 Bowling Grn  at  #251 Ball St,2:00 PM,Worthen Arena
+106,41.9,#138 N Dakota St  at  #347 Denver,3:00 PM,Hamilton Gymnasium
+107,41.1,#339 WI-Grn Bay  at  #153 WI-Milwkee,4:00 PM,UW-Milwaukee Panther Arena
+108,39.7,#248 Bucknell  at  #276 American,4:00 PM,Bender Arena
+109,39.2,#324 NC A&T  at  #189 Wm & Mary,2:00 PM,Kaplan Arena
+110,38.9,#356 NJIT  at  #142 Mass Lowell,1:00 PM,Costello Athletic Center
+111,38.7,#328 VMI  at  #190 Chattanooga,2:00 PM,McKenzie Arena
+111,38.7,#184 Hawaii  at  #334 CS Fullerton,4:00 PM,Titan Gym
+113,38.6,#181 N Alabama  at  #336 Stetson,4:00 PM,Insight Credit Union Arena at Edmunds Center
+114,38.2,#351 N Illinois  at  #157 Ohio,1:00 PM,Convocation Center
+115,38.0,#191 Northeastrn  at  #333 Stony Brook,7:00 PM,Island Federal Credit Union Arena
+116,37.5,#346 Central Ark  at  #170 Fla Gulf Cst,2:00 PM,Alico Arena
+117,37.2,#357 Citadel  at  #155 E Tenn St,4:00 PM,Freedom Hall Civic Center
+118,36.0,#307 Lg Beach St  at  #234 UC Davis,5:00 PM,University Credit Union Center
+119,35.4,#243 Queens  at  #305 Austin Peay,5:00 PM,F&M Bank Arena
+120,35.2,#362 Coppin St  at  #161 Norfolk St,4:30 PM,Joseph G. Echols Memorial Hall
+121,34.9,#321 Delaware St  at  #223 S Car State,4:00 PM,Smith-Hammond Middleton Memorial Center
+122,34.7,#239 Beth-Cook  at  #310 Grambling St,5:30 PM,Willis Reed Court at the Fredrick C. Hobdy Center
+123,34.4,#296 Morehead St  at  #257 SE Missouri,4:45 PM,Show Me Center
+124,34.1,#204 Radford  at  #341 SC Upstate,2:00 PM,G.B. Hodge Center
+125,33.5,#306 TN Tech  at  #252 SIU Edward,5:00 PM,First Community Arena at the Vadalabene Center
+126,33.0,#290 Army  at  #271 Lehigh,2:00 PM,Stabler Arena
+127,32.9,#289 Coastal Car  at  #275 Georgia St,4:00 PM,Georgia State Convocation Center
+128,31.2,#245 Incar Word  at  #327 Hsn Christian,4:30 PM,Sharp Gymnasium
+129,30.3,#303 U Penn  at  #272 Dartmouth,2:00 PM,Leede Arena
+130,29.8,#312 S Indiana  at  #266 AR Lit Rock,4:00 PM,Jack Stephens Center
+131,29.5,#284 Tarleton St  at  #299 Utah Tech,9:00 PM,Burns Arena
+132,29.2,#311 Holy Cross  at  #274 Lafayette,1:00 PM,Kirby Sports Center
+133,28.1,#348 Florida A&M  at  #232 Southern,6:00 PM,F. G. Clark Activity Center
+134,27.5,#277 North Dakota  at  #317 Oral Roberts,8:00 PM,Mabee Center
+135,27.1,#270 TN Martin  at  #326 Lindenwood,4:30 PM,Robert F. Hyland Arena
+136,26.9,#237 SE Louisiana  at  #354 New Orleans,6:00 PM,Lakefront Arena
+137,26.7,#297 Navy  at  #298 Loyola-MD,5:00 PM,Reitz Arena
+138,26.2,#268 E Washingtn  at  #331 Sac State,4:00 PM,The Nest
+139,24.9,#250 N Florida  at  #350 Bellarmine,6:30 PM,Knights Hall
+140,24.7,#282 Alabama St  at  #325 Jackson St,4:30 PM,Williams Assembly Center
+141,24.1,#342 Morgan St  at  #264 Howard,4:00 PM,Burr Gymnasium
+142,20.4,#358 Maryland ES  at  #269 NC Central,4:00 PM,McDougald-McLendon Arena
+143,19.3,#308 TN State  at  #329 W Illinois,4:30 PM,LeRoy A. Ufkes Court at Western Hall
+144,17.8,#349 TX A&M-Com  at  #291 NW State,2:00 PM,Prather Coliseum
+145,16.0,#343 UL Monroe  at  #309 Louisiana,8:00 PM,Cajundome
+146,11.6,#315 Binghamton  at  #360 N Hampshire,1:00 PM,Lundholm Gymnasium
+147,10.2,#363 Ark Pine Bl  vs.  #319 TX Southern,6:30 PM,H.O. Clemmons Arena (K. L. Johnson Complex)
+148,4.5,#344 Prairie View  at  #364 Miss Val St,7:00 PM,Harrison HPER Complex
+149,4.2,#359 Alab A&M  at  #355 Alcorn St,4:00 PM,Davey Whitney Complex

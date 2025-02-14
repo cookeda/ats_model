@@ -1,0 +1,596 @@
+[
+    [
+        {
+            "Scrape Time": "2025-01-07 08:45:45",
+            "Book Name": "DK",
+            "Away Team": "Saint Johns",
+            "Away Spread": "-1.5",
+            "Away Spread Odds": "−108",
+            "Away ML": "−125",
+            "Home Team": "Xavier",
+            "Home Spread": "+1.5",
+            "Home Spread Odds": "−112",
+            "Home ML": "+105",
+            "Total": "151.5",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "6:30PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-07 08:45:48",
+            "Book Name": "DK",
+            "Away Team": "Tennessee",
+            "Away Spread": "+3",
+            "Away Spread Odds": "−112",
+            "Away ML": "+130",
+            "Home Team": "Florida",
+            "Home Spread": "-3",
+            "Home Spread Odds": "−108",
+            "Home ML": "−155",
+            "Total": "148",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-07 08:45:51",
+            "Book Name": "DK",
+            "Away Team": "Kentucky",
+            "Away Spread": "-2.5",
+            "Away Spread Odds": "−102",
+            "Away ML": "−142",
+            "Home Team": "Georgia",
+            "Home Spread": "+2.5",
+            "Home Spread Odds": "−118",
+            "Home ML": "+120",
+            "Total": "155",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-07 08:45:53",
+            "Book Name": "DK",
+            "Away Team": "Pittsburgh",
+            "Away Spread": "+14.5",
+            "Away Spread Odds": "−112",
+            "Away ML": "+800",
+            "Home Team": "Duke",
+            "Home Spread": "-14.5",
+            "Home Spread Odds": "−108",
+            "Home ML": "−1350",
+            "Total": "143",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-07 08:45:56",
+            "Book Name": "DK",
+            "Away Team": "Arizona",
+            "Away Spread": "-2.5",
+            "Away Spread Odds": "−105",
+            "Away ML": "−135",
+            "Home Team": "West Virginia",
+            "Home Spread": "+2.5",
+            "Home Spread Odds": "−115",
+            "Home ML": "+114",
+            "Total": "143.5",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-07 08:45:59",
+            "Book Name": "DK",
+            "Away Team": "Clemson",
+            "Away Spread": "+3.5",
+            "Away Spread Odds": "−108",
+            "Away ML": "+140",
+            "Home Team": "Louisville",
+            "Home Spread": "-3.5",
+            "Home Spread Odds": "−112",
+            "Home ML": "−166",
+            "Total": "145.5",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-07 08:46:03",
+            "Book Name": "DK",
+            "Away Team": "Eastern Michigan",
+            "Away Spread": "+10",
+            "Away Spread Odds": "−112",
+            "Away ML": "+400",
+            "Home Team": "Toledo",
+            "Home Spread": "-10",
+            "Home Spread Odds": "−108",
+            "Home ML": "−535",
+            "Total": "152",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-07 08:46:06",
+            "Book Name": "DK",
+            "Away Team": "Georgia Tech",
+            "Away Spread": "+1",
+            "Away Spread Odds": "−115",
+            "Away ML": "−108",
+            "Home Team": "Syracuse",
+            "Home Spread": "-1",
+            "Home Spread Odds": "−105",
+            "Home ML": "−112",
+            "Total": "156",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-07 08:46:09",
+            "Book Name": "DK",
+            "Away Team": "Central Michigan",
+            "Away Spread": "+9",
+            "Away Spread Odds": "−112",
+            "Away ML": "+350",
+            "Home Team": "Akron",
+            "Home Spread": "-9",
+            "Home Spread Odds": "−108",
+            "Home ML": "−455",
+            "Total": "147",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-07 08:46:11",
+            "Book Name": "DK",
+            "Away Team": "Kent State",
+            "Away Spread": "-12.5",
+            "Away Spread Odds": "−112",
+            "Away ML": "−950",
+            "Home Team": "Northern Illinois",
+            "Home Spread": "+12.5",
+            "Home Spread Odds": "−108",
+            "Home ML": "+625",
+            "Total": "136.5",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-07 08:46:14",
+            "Book Name": "DK",
+            "Away Team": "Ohio",
+            "Away Spread": "-11",
+            "Away Spread Odds": "−108",
+            "Away ML": "−625",
+            "Home Team": "Buffalo",
+            "Home Spread": "+11",
+            "Home Spread Odds": "−112",
+            "Home ML": "+455",
+            "Total": "153",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-07 08:46:17",
+            "Book Name": "DK",
+            "Away Team": "Bowling Green",
+            "Away Spread": "+3.5",
+            "Away Spread Odds": "−110",
+            "Away ML": "+136",
+            "Home Team": "Western Michigan",
+            "Home Spread": "-3.5",
+            "Home Spread Odds": "−110",
+            "Home ML": "−162",
+            "Total": "150.5",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-07 08:46:20",
+            "Book Name": "DK",
+            "Away Team": "Miami OH",
+            "Away Spread": "-1.5",
+            "Away Spread Odds": "−108",
+            "Away ML": "−125",
+            "Home Team": "Ball State",
+            "Home Spread": "+1.5",
+            "Home Spread Odds": "−112",
+            "Home ML": "+105",
+            "Total": "148",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-07 08:46:23",
+            "Book Name": "DK",
+            "Away Team": "Tulane",
+            "Away Spread": "+9",
+            "Away Spread Odds": "−112",
+            "Away ML": "+320",
+            "Home Team": "UAB",
+            "Home Spread": "-9",
+            "Home Spread Odds": "−108",
+            "Home ML": "−410",
+            "Total": "158",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "7:30PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-07 08:46:26",
+            "Book Name": "DK",
+            "Away Team": "Georgetown",
+            "Away Spread": "+13",
+            "Away Spread Odds": "−110",
+            "Away ML": "+650",
+            "Home Team": "Marquette",
+            "Home Spread": "-13",
+            "Home Spread Odds": "−110",
+            "Home ML": "−1000",
+            "Total": "145.5",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "8:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-07 08:46:28",
+            "Book Name": "DK",
+            "Away Team": "Cincinnati",
+            "Away Spread": "+6",
+            "Away Spread Odds": "−110",
+            "Away ML": "+210",
+            "Home Team": "Baylor",
+            "Home Spread": "-6",
+            "Home Spread Odds": "−110",
+            "Home ML": "−258",
+            "Total": "138.5",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "8:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-07 08:46:31",
+            "Book Name": "DK",
+            "Away Team": "Utah",
+            "Away Spread": "+18",
+            "Away Spread Odds": "−112",
+            "Away ML": "+1200",
+            "Home Team": "Iowa State",
+            "Home Spread": "-18",
+            "Home Spread Odds": "−108",
+            "Home ML": "−2400",
+            "Total": "151.5",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "8:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-07 08:46:34",
+            "Book Name": "DK",
+            "Away Team": "Nebraska",
+            "Away Spread": "+3.5",
+            "Away Spread Odds": "−110",
+            "Away ML": "+145",
+            "Home Team": "Iowa",
+            "Home Spread": "-3.5",
+            "Home Spread Odds": "−110",
+            "Home ML": "−175",
+            "Total": "159",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "8:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-07 08:46:37",
+            "Book Name": "DK",
+            "Away Team": "Kansas State",
+            "Away Spread": "+2.5",
+            "Away Spread Odds": "−110",
+            "Away ML": "+114",
+            "Home Team": "Oklahoma State",
+            "Home Spread": "-2.5",
+            "Home Spread Odds": "−110",
+            "Home ML": "−135",
+            "Total": "146.5",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "8:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-07 08:46:39",
+            "Book Name": "DK",
+            "Away Team": "Tulsa",
+            "Away Spread": "+5",
+            "Away Spread Odds": "−108",
+            "Away ML": "+180",
+            "Home Team": "UTSA",
+            "Home Spread": "-5",
+            "Home Spread Odds": "−112",
+            "Home ML": "−218",
+            "Total": "154.5",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "8:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-07 08:46:42",
+            "Book Name": "DK",
+            "Away Team": "Illinois Chicago",
+            "Away Spread": "+2.5",
+            "Away Spread Odds": "−110",
+            "Away ML": "+124",
+            "Home Team": "Missouri State",
+            "Home Spread": "-2.5",
+            "Home Spread Odds": "−110",
+            "Home ML": "−148",
+            "Total": "139.5",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "8:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-07 08:46:45",
+            "Book Name": "DK",
+            "Away Team": "SIU Edwardsville",
+            "Away Spread": "-2.5",
+            "Away Spread Odds": "−112",
+            "Away ML": "−148",
+            "Home Team": "Eastern Illinois",
+            "Home Spread": "+2.5",
+            "Home Spread Odds": "−108",
+            "Home ML": "+124",
+            "Total": "132.5",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "8:30PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-07 08:46:48",
+            "Book Name": "DK",
+            "Away Team": "Auburn",
+            "Away Spread": "-10.5",
+            "Away Spread Odds": "−112",
+            "Away ML": "−600",
+            "Home Team": "Texas",
+            "Home Spread": "+10.5",
+            "Home Spread Odds": "−108",
+            "Home ML": "+440",
+            "Total": "152",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "9:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-07 08:46:51",
+            "Book Name": "DK",
+            "Away Team": "SMU",
+            "Away Spread": "+6.5",
+            "Away Spread Odds": "−112",
+            "Away ML": "+230",
+            "Home Team": "North Carolina",
+            "Home Spread": "-6.5",
+            "Home Spread Odds": "−108",
+            "Home ML": "−285",
+            "Total": "166.5",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "9:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-07 08:46:54",
+            "Book Name": "DK",
+            "Away Team": "Mississippi State",
+            "Away Spread": "-1.5",
+            "Away Spread Odds": "−112",
+            "Away ML": "−125",
+            "Home Team": "Vanderbilt",
+            "Home Spread": "+1.5",
+            "Home Spread Odds": "−108",
+            "Home ML": "+105",
+            "Total": "154.5",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "9:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-07 08:46:56",
+            "Book Name": "DK",
+            "Away Team": "Fresno State",
+            "Away Spread": "+14.5",
+            "Away Spread Odds": "−105",
+            "Away ML": "+950",
+            "Home Team": "Colorado State",
+            "Home Spread": "-14.5",
+            "Home Spread Odds": "−115",
+            "Home ML": "−1650",
+            "Total": "149.5",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "9:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-07 08:46:59",
+            "Book Name": "DK",
+            "Away Team": "Texas Tech",
+            "Away Spread": "+3",
+            "Away Spread Odds": "−108",
+            "Away ML": "+130",
+            "Home Team": "BYU",
+            "Home Spread": "-3",
+            "Home Spread Odds": "−112",
+            "Home ML": "−155",
+            "Total": "150",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "9:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-07 08:47:02",
+            "Book Name": "DK",
+            "Away Team": "LSU",
+            "Away Spread": "+7",
+            "Away Spread Odds": "−112",
+            "Away ML": "+225",
+            "Home Team": "Missouri",
+            "Home Spread": "-7",
+            "Home Spread Odds": "−108",
+            "Home ML": "−278",
+            "Total": "151",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "9:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-07 08:47:05",
+            "Book Name": "DK",
+            "Away Team": "Michigan",
+            "Away Spread": "+3.5",
+            "Away Spread Odds": "−112",
+            "Away ML": "+140",
+            "Home Team": "UCLA",
+            "Home Spread": "-3.5",
+            "Home Spread Odds": "−108",
+            "Home ML": "−166",
+            "Total": "141",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "10:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-07 08:47:08",
+            "Book Name": "DK",
+            "Away Team": "Utah State",
+            "Away Spread": "-10.5",
+            "Away Spread Odds": "−115",
+            "Away ML": "−650",
+            "Home Team": "San Jose State",
+            "Home Spread": "+10.5",
+            "Home Spread Odds": "−105",
+            "Home ML": "+470",
+            "Total": "148",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "10:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-07 08:47:11",
+            "Book Name": "DK",
+            "Away Team": "New Mexico",
+            "Away Spread": "-6.5",
+            "Away Spread Odds": "−112",
+            "Away ML": "−298",
+            "Home Team": "Wyoming",
+            "Home Spread": "+6.5",
+            "Home Spread Odds": "−108",
+            "Home ML": "+240",
+            "Total": "147",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "10:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-07 08:47:13",
+            "Book Name": "DK",
+            "Away Team": "UNLV",
+            "Away Spread": "+8",
+            "Away Spread Odds": "−112",
+            "Away ML": "+270",
+            "Home Team": "Boise State",
+            "Home Spread": "-8",
+            "Home Spread Odds": "−108",
+            "Home ML": "−340",
+            "Total": "140",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "10:30PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-01-07 08:47:16",
+            "Book Name": "DK",
+            "Away Team": "Loyola Marymount",
+            "Away Spread": "+14.5",
+            "Away Spread Odds": "−112",
+            "Away ML": "+950",
+            "Home Team": "Saint Marys",
+            "Home Spread": "-14.5",
+            "Home Spread Odds": "−108",
+            "Home ML": "−1650",
+            "Total": "135",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "11:00PM"
+        }
+    ]
+]
