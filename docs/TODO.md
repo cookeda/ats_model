@@ -5,7 +5,7 @@ Every addition should require 0 energy to continue training, automate scripts, t
 ### 1. Automated Organized Data Pipeline  
 - [x] Move data back in from other attempt (data/raw/league)
 - [ ] Confirm all data is present, script it.
-- [] Change automation of that fetch one to this one  
+- [x] Change automation of that fetch one to this one  
 - [ ] Create a cleaning plan in data_cleaning.md
 - [ ] Begin script 
 - [ ] Use Odds API instead of dk scraper  
