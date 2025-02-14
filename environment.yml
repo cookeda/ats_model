@@ -1,0 +1,4 @@
+name: ats_spread
+channels:
+  - conda-forge
+prefix: /home/dcooke/miniforge3/envs/ats_spread
