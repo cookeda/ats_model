@@ -7,6 +7,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
 from datetime import date, timedelta
+import time
 
 def setup_driver():
     """Sets up and returns a basic Selenium WebDriver instance."""
@@ -25,17 +26,19 @@ def fetch_articles_and_save_to_csv(url, output_csv):
     driver = setup_driver()
     try:
         driver.get(url)
-        
+        time.sleep(20) 
         # Locate all articles dynamically
         articles = driver.find_elements(By.XPATH, "/html/body/main/div[4]/article")
         article_count = len(articles)
+        title = driver.find_element(By.XPATH, "/html/body/main/div[1]/h1")
         if article_count > 4:
             article_count = article_count - 1
         print(f"Found {article_count} articles:")
         
         with open(output_csv, mode='w', newline='', encoding='utf-7') as file:
             writer = csv.writer(file)
-            writer.writerow(["Away Team", "Home Team", "Cover Team", "Closing Spread", "Closing Total Line", "Actual Total Score"])
+            writer.writerow(["Away Team", "Home Team", "Cover Team", "Closing Spread", 
+                             "Closing Total Line", "Actual Total Score"])
             
             for idx, article in enumerate(articles, start=1):
                 try:
@@ -49,12 +52,15 @@ def fetch_articles_and_save_to_csv(url, output_csv):
                     spread_line = dynamic_text.split('spread of ')[1].split('. The total')[0]
                     actual_total = dynamic_text.split('The total score of ')[1].split(' was')[0]
                     total_line = dynamic_text.strip().split()[-1]
-                    away_score = driver.find_elements(By.XPATH, '//*[@id="nba-315608"]/div[2]/table/tbody/tr[1]/td[5]')
+                    away_score = driver.find_elements(By.XPATH, 
+                                    '//*[@id="nba-315608"]/div[2]/table/tbody/tr[1]/td[5]')
 
-                    print(f'Cover Team: {cover_team}; Spread Line: {spread_line}; Actual Total: {actual_total}; Total Line: {total_line} ')
+                    print(f'Cover Team: {cover_team}; Spread Line: {spread_line}' +
+                          '; Actual Total: {actual_total}; Total Line: {total_line} ')
 
                     # Write extracted data to CSV
-                    writer.writerow([away_team, home_team, cover_team, spread_line, total_line, actual_total, away_score])
+                    writer.writerow([away_team, home_team, cover_team, 
+                                     spread_line, total_line, actual_total, away_score])
 
                 except NoSuchElementException:
                     print(f"Dynamic text not found for Article {idx}")
@@ -73,7 +79,6 @@ def main():
         if league == 'NCB': selected_league = 'ncaab'
         else: selected_league = league
         url = f"https://www.covers.com/sports/{selected_league}/matchups?selectedDate={selected_date}"
-        output_csv = f"../../data/raw/{league}/{selected_date}/game_results.csv"
         fetch_articles_and_save_to_csv(url, output_csv)
 
 

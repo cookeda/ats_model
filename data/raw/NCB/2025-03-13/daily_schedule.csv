@@ -1,0 +1,49 @@
+Rank,Hotness Score,Matchup,Time,Location
+1,99.3,#15 Kansas  vs.  #10 Arizona,9:30 PM,T-Mobile Center
+2,98.9,#7 Iowa St  vs.  #22 BYU,12:30 PM,T-Mobile Center
+3,98.7,#23 Baylor  vs.  #8 Texas Tech,7:00 PM,T-Mobile Center
+4,97.8,#30 Mississippi St  vs.  #26 Missouri,7:00 PM,Sommet Center
+5,97.6,#19 Marquette  vs.  #38 Xavier,2:30 PM,Madison Square Garden
+6,97.2,#46 Oklahoma  vs.  #14 Kentucky,9:30 PM,Sommet Center
+7,97.1,#40 Texas  vs.  #20 Texas A&M,3:30 PM,Sommet Center
+8,96.9,#39 Arkansas  vs.  #31 Mississippi,1:00 PM,Sommet Center
+9,96.7,#45 Villanova  vs.  #25 UConn,9:30 PM,Madison Square Garden
+10,96.6,#47 Northwestern  vs.  #18 Wisconsin,2:30 PM,Gainbridge Fieldhouse
+11,96.5,#44 SMU  vs.  #24 Clemson,9:30 PM,Spectrum Center
+11,96.5,#43 Indiana  vs.  #34 Oregon,12:00 PM,Gainbridge Fieldhouse
+13,95.9,#58 Iowa  vs.  #17 Illinois,6:30 PM,Gainbridge Fieldhouse
+14,95.7,#60 USC  vs.  #13 Purdue,9:00 PM,Gainbridge Fieldhouse
+15,95.0,#29 North Carolina  vs.  #64 Wake Forest,2:30 PM,Spectrum Center
+16,94.6,#67 Butler  vs.  #16 St John's,12:00 PM,Madison Square Garden
+17,94.4,#53 Boise St  vs.  #54 San Diego St,5:30 PM,Thomas & Mack Center
+18,93.5,#80 Colorado  vs.  #3 Houston,3:00 PM,T-Mobile Center
+19,92.7,#84 Stanford  vs.  #27 Louisville,7:00 PM,Spectrum Center
+20,91.8,#95 Georgia Tech  vs.  #1 Duke,12:00 PM,Spectrum Center
+21,91.6,#78 Nevada  vs.  #59 Colorado St,9:00 PM,Thomas & Mack Center
+22,90.0,#99 UNLV  vs.  #49 Utah St,11:30 PM,Thomas & Mack Center
+23,89.6,#110 DePaul  vs.  #32 Creighton,7:00 PM,Madison Square Garden
+24,82.5,#121 Duquesne  vs.  #108 St Bonaventure,11:30 AM,Capital One Arena
+25,81.0,#132 Davidson  vs.  #109 Saint Louis,2:00 PM,Capital One Arena
+26,80.5,#126 Louisiana Tech  vs.  #122 Middle Tenn,9:00 PM,Propst Arena
+27,79.6,#182 San Jose St  vs.  #42 New Mexico,3:00 PM,Thomas & Mack Center
+28,76.2,#156 UCSB  vs.  #124 CS Northridge,9:00 PM,Dollar Loan Center
+29,73.5,#205 La Salle  vs.  #79 Saint Joseph's,7:30 PM,Capital One Arena
+30,73.2,#175 S Florida  vs.  #127 Wichita St,12:30 PM,Dickies Arena
+31,72.5,#147 New Mexico St  vs.  #165 Kennesaw St,6:30 PM,Propst Arena
+32,68.7,#214 Fordham  vs.  #114 G Washington,5:00 PM,Capital One Arena
+33,66.0,#238 Charlotte  vs.  #103 Florida Atlantic,2:30 PM,Dickies Arena
+34,65.7,#133 Seattle  vs.  #222 Abl Christian,9:00 PM,Orleans Areana
+35,65.5,#198 UTSA  vs.  #163 E Carolina,9:00 PM,Dickies Arena
+36,62.1,#167 Ohio  vs.  #217 Toledo,1:30 PM,Rocket Arena
+37,61.0,#227 Cal Poly  vs.  #162 UC Riverside,11:30 PM,Dollar Loan Center
+38,59.0,#248 Tulsa  vs.  #150 Temple,7:00 PM,Dickies Arena
+39,57.5,#281 Bowling Green  vs.  #111 Akron,11:00 AM,Rocket Arena
+40,51.9,#301 W Michigan  vs.  #130 Kent St,6:30 PM,Rocket Arena
+41,50.8,#290 Tarleton St  vs.  #157 Cal Baptist,11:30 PM,Orleans Areana
+42,50.2,#291 E Michigan  vs.  #159 Miami OH,4:00 PM,Rocket Arena
+43,43.3,#253 Mt St Mary's  vs.  #252 Marist,8:30 PM,Boardwalk Hall
+44,42.9,#251 Manhattan  vs.  #256 Iona,6:00 PM,Boardwalk Hall
+45,33.4,#283 Alabama St  vs.  #279 Texas So,2:00 PM,Gateway Center Arena at College Park
+46,29.3,#286 NC Central  vs.  #299 Delaware St,8:00 PM,Norfolk Scope Arena
+47,23.2,#334 Alcorn St  vs.  #282 Bethune,8:30 PM,Gateway Center Arena at College Park
+48,19.2,#333 Morgan St  vs.  #306 Howard,6:00 PM,Norfolk Scope Arena
