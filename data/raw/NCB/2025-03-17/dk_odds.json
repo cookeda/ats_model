@@ -1,0 +1,38 @@
+[
+    [
+        {
+            "Scrape Time": "2025-03-17 08:26:16",
+            "Book Name": "DK",
+            "Away Team": "Saint Francis PA",
+            "Away Spread": "+3.5",
+            "Away Spread Odds": "−105",
+            "Away ML": "+142",
+            "Home Team": "Alabama State",
+            "Home Spread": "-3.5",
+            "Home Spread Odds": "−115",
+            "Home ML": "−170",
+            "Total": "141.5",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "6:40PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-03-17 08:26:19",
+            "Book Name": "DK",
+            "Away Team": "North Carolina",
+            "Away Spread": "-4.5",
+            "Away Spread Odds": "−105",
+            "Away ML": "−180",
+            "Home Team": "San Diego State",
+            "Home Spread": "+4.5",
+            "Home Spread Odds": "−115",
+            "Home ML": "+150",
+            "Total": "142.5",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "9:10PM"
+        }
+    ]
+]
