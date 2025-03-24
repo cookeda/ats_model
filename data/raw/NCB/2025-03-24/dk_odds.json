@@ -1,0 +1,56 @@
+[
+    [
+        {
+            "Scrape Time": "2025-03-24 08:25:26",
+            "Book Name": "DK",
+            "Away Team": "Incarnate Word",
+            "Away Spread": "+3.5",
+            "Away Spread Odds": "−115",
+            "Away ML": "+140",
+            "Home Team": "Jacksonville",
+            "Home Spread": "-3.5",
+            "Home Spread Odds": "−105",
+            "Home ML": "−166",
+            "Total": "140.5",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "12:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-03-24 08:25:29",
+            "Book Name": "DK",
+            "Away Team": "Army",
+            "Away Spread": "+9.5",
+            "Away Spread Odds": "−115",
+            "Away ML": "+350",
+            "Home Team": "Florida Gulf Coast",
+            "Home Spread": "-9.5",
+            "Home Spread Odds": "−105",
+            "Home ML": "−455",
+            "Total": "151.5",
+            "Over Total Odds": "−105",
+            "Under Total Odds": "−115",
+            "Start Time": "2:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-03-24 08:25:31",
+            "Book Name": "DK",
+            "Away Team": "Queens NC",
+            "Away Spread": "+3.5",
+            "Away Spread Odds": "−112",
+            "Away ML": "+140",
+            "Home Team": "Cleveland State",
+            "Home Spread": "-3.5",
+            "Home Spread Odds": "−108",
+            "Home ML": "−166",
+            "Total": "145.5",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "4:00PM"
+        }
+    ]
+]
