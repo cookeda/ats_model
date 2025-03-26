@@ -1,0 +1,110 @@
+[
+    [
+        {
+            "Scrape Time": "2025-03-26 09:01:18",
+            "Book Name": "DK",
+            "Away Team": "WAS Wizards",
+            "Away Spread": "+3",
+            "Away Spread Odds": "−115",
+            "Away ML": "+124",
+            "Home Team": "PHI 76ers",
+            "Home Spread": "-3",
+            "Home Spread Odds": "−105",
+            "Home ML": "−148",
+            "Total": "230.5",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "7:10PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-03-26 09:01:20",
+            "Book Name": "DK",
+            "Away Team": "LA Lakers",
+            "Away Spread": "-1",
+            "Away Spread Odds": "−105",
+            "Away ML": "−115",
+            "Home Team": "IND Pacers",
+            "Home Spread": "+1",
+            "Home Spread Odds": "−115",
+            "Home ML": "−105",
+            "Total": "235",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "7:40PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-03-26 09:01:23",
+            "Book Name": "DK",
+            "Away Team": "LA Clippers",
+            "Away Spread": "-3.5",
+            "Away Spread Odds": "−108",
+            "Away ML": "−155",
+            "Home Team": "NY Knicks",
+            "Home Spread": "+3.5",
+            "Home Spread Odds": "−112",
+            "Home ML": "+130",
+            "Total": "217.5",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "7:40PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-03-26 09:01:26",
+            "Book Name": "DK",
+            "Away Team": "TOR Raptors",
+            "Away Spread": "+2.5",
+            "Away Spread Odds": "−112",
+            "Away ML": "+120",
+            "Home Team": "BKN Nets",
+            "Home Spread": "-2.5",
+            "Home Spread Odds": "−108",
+            "Home ML": "−142",
+            "Total": "214.5",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "7:40PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-03-26 09:01:28",
+            "Book Name": "DK",
+            "Away Team": "MIL Bucks",
+            "Away Spread": "+6",
+            "Away Spread Odds": "−110",
+            "Away ML": "+190",
+            "Home Team": "DEN Nuggets",
+            "Home Spread": "-6",
+            "Home Spread Odds": "−110",
+            "Home ML": "−230",
+            "Total": "224",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "9:10PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-03-26 09:01:31",
+            "Book Name": "DK",
+            "Away Team": "BOS Celtics",
+            "Away Spread": "-4.5",
+            "Away Spread Odds": "−112",
+            "Away ML": "−180",
+            "Home Team": "PHO Suns",
+            "Home Spread": "+4.5",
+            "Home Spread Odds": "−108",
+            "Home ML": "+150",
+            "Total": "220",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "10:10PM"
+        }
+    ]
+]
