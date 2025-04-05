@@ -1,0 +1,92 @@
+[
+    [
+        {
+            "Scrape Time": "2025-04-05 08:32:52",
+            "Book Name": "DK",
+            "Away Team": "NY Knicks",
+            "Away Spread": "-4",
+            "Away Spread Odds": "−110",
+            "Away ML": "−175",
+            "Home Team": "ATL Hawks",
+            "Home Spread": "+4",
+            "Home Spread Odds": "−110",
+            "Home ML": "+145",
+            "Total": "236.5",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "3:10PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-04-05 08:32:55",
+            "Book Name": "DK",
+            "Away Team": "MIN Timberwolves",
+            "Away Spread": "-16",
+            "Away Spread Odds": "−108",
+            "Away ML": "−1350",
+            "Home Team": "PHI 76ers",
+            "Home Spread": "+16",
+            "Home Spread Odds": "−112",
+            "Home ML": "+800",
+            "Total": "225",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "7:10PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-04-05 08:32:57",
+            "Book Name": "DK",
+            "Away Team": "MEM Grizzlies",
+            "Away Spread": "-2",
+            "Away Spread Odds": "−108",
+            "Away ML": "−130",
+            "Home Team": "DET Pistons",
+            "Home Spread": "+2",
+            "Home Spread Odds": "−112",
+            "Home ML": "+110",
+            "Total": "240.5",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "7:10PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-04-05 08:33:00",
+            "Book Name": "DK",
+            "Away Team": "MIL Bucks",
+            "Away Spread": "-1",
+            "Away Spread Odds": "−108",
+            "Away ML": "−112",
+            "Home Team": "MIA Heat",
+            "Home Spread": "+1",
+            "Home Spread Odds": "−112",
+            "Home ML": "−108",
+            "Total": "213",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "8:10PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-04-05 08:33:03",
+            "Book Name": "DK",
+            "Away Team": "DAL Mavericks",
+            "Away Spread": "+8.5",
+            "Away Spread Odds": "−112",
+            "Away ML": "+285",
+            "Home Team": "LA Clippers",
+            "Home Spread": "-8.5",
+            "Home Spread Odds": "−108",
+            "Home ML": "−360",
+            "Total": "221.5",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "10:40PM"
+        }
+    ]
+]
