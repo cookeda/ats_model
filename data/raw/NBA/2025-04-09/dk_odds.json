@@ -1,0 +1,182 @@
+[
+    [
+        {
+            "Scrape Time": "2025-04-09 08:27:17",
+            "Book Name": "DK",
+            "Away Team": "BOS Celtics",
+            "Away Spread": "+5",
+            "Away Spread Odds": "−110",
+            "Away ML": "+160",
+            "Home Team": "ORL Magic",
+            "Home Spread": "-5",
+            "Home Spread Odds": "−110",
+            "Home ML": "−192",
+            "Total": "208.5",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "7:10PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-04-09 08:27:20",
+            "Book Name": "DK",
+            "Away Team": "PHI 76ers",
+            "Away Spread": "-1",
+            "Away Spread Odds": "−112",
+            "Away ML": "−120",
+            "Home Team": "WAS Wizards",
+            "Home Spread": "+1",
+            "Home Spread Odds": "−108",
+            "Home ML": "+100",
+            "Total": "227.5",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "7:10PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-04-09 08:27:22",
+            "Book Name": "DK",
+            "Away Team": "LA Lakers",
+            "Away Spread": "-3.5",
+            "Away Spread Odds": "−112",
+            "Away ML": "−162",
+            "Home Team": "DAL Mavericks",
+            "Home Spread": "+3.5",
+            "Home Spread Odds": "−108",
+            "Home ML": "+136",
+            "Total": "229",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "7:40PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-04-09 08:27:25",
+            "Book Name": "DK",
+            "Away Team": "CHA Hornets",
+            "Away Spread": "+9.5",
+            "Away Spread Odds": "−112",
+            "Away ML": "+310",
+            "Home Team": "TOR Raptors",
+            "Home Spread": "-9.5",
+            "Home Spread Odds": "−108",
+            "Home ML": "−395",
+            "Total": "217",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "7:40PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-04-09 08:27:28",
+            "Book Name": "DK",
+            "Away Team": "MIA Heat",
+            "Away Spread": "-1.5",
+            "Away Spread Odds": "−112",
+            "Away ML": "−125",
+            "Home Team": "CHI Bulls",
+            "Home Spread": "+1.5",
+            "Home Spread Odds": "−108",
+            "Home ML": "+105",
+            "Total": "227",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "8:10PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-04-09 08:27:30",
+            "Book Name": "DK",
+            "Away Team": "POR Trail Blazers",
+            "Away Spread": "-6",
+            "Away Spread Odds": "−110",
+            "Away ML": "−230",
+            "Home Team": "UTA Jazz",
+            "Home Spread": "+6",
+            "Home Spread Odds": "−110",
+            "Home ML": "+190",
+            "Total": "229.5",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "9:10PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-04-09 08:27:33",
+            "Book Name": "DK",
+            "Away Team": "OKC Thunder",
+            "Away Spread": "-9.5",
+            "Away Spread Odds": "−115",
+            "Away ML": "−455",
+            "Home Team": "PHO Suns",
+            "Home Spread": "+9.5",
+            "Home Spread Odds": "−105",
+            "Home ML": "+350",
+            "Total": "228",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "10:10PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-04-09 08:27:36",
+            "Book Name": "DK",
+            "Away Team": "DEN Nuggets",
+            "Away Spread": "-3.5",
+            "Away Spread Odds": "−108",
+            "Away ML": "−155",
+            "Home Team": "SAC Kings",
+            "Home Spread": "+3.5",
+            "Home Spread Odds": "−112",
+            "Home ML": "+130",
+            "Total": "233.5",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "10:10PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-04-09 08:27:39",
+            "Book Name": "DK",
+            "Away Team": "SA Spurs",
+            "Away Spread": "+16",
+            "Away Spread Odds": "−112",
+            "Away ML": "+800",
+            "Home Team": "GS Warriors",
+            "Home Spread": "-16",
+            "Home Spread Odds": "−108",
+            "Home ML": "−1350",
+            "Total": "231.5",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "10:10PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-04-09 08:27:41",
+            "Book Name": "DK",
+            "Away Team": "HOU Rockets",
+            "Away Spread": "+7.5",
+            "Away Spread Odds": "−108",
+            "Away ML": "+240",
+            "Home Team": "LA Clippers",
+            "Home Spread": "-7.5",
+            "Home Spread Odds": "−112",
+            "Home ML": "−298",
+            "Total": "218.5",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "10:40PM"
+        }
+    ]
+]
