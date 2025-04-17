@@ -1,0 +1,38 @@
+[
+    [
+        {
+            "Scrape Time": "2025-04-17 08:32:51",
+            "Book Name": "DK",
+            "Away Team": "MIA Heat",
+            "Away Spread": "+1",
+            "Away Spread Odds": "−110",
+            "Away ML": "−102",
+            "Home Team": "ATL Hawks",
+            "Home Spread": "-1",
+            "Home Spread Odds": "−110",
+            "Home ML": "−118",
+            "Total": "219",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "7:10PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-04-17 08:32:54",
+            "Book Name": "DK",
+            "Away Team": "DAL Mavericks",
+            "Away Spread": "+6.5",
+            "Away Spread Odds": "−110",
+            "Away ML": "+215",
+            "Home Team": "MEM Grizzlies",
+            "Home Spread": "-6.5",
+            "Home Spread Odds": "−110",
+            "Home ML": "−265",
+            "Total": "222",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "9:40PM"
+        }
+    ]
+]
