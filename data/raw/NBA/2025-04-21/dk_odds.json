@@ -1,0 +1,38 @@
+[
+    [
+        {
+            "Scrape Time": "2025-04-21 08:16:56",
+            "Book Name": "DK",
+            "Away Team": "DET Pistons",
+            "Away Spread": "+6.5",
+            "Away Spread Odds": "−108",
+            "Away ML": "+205",
+            "Home Team": "NY Knicks",
+            "Home Spread": "-6.5",
+            "Home Spread Odds": "−112",
+            "Home ML": "−250",
+            "Total": "221.5",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "7:30PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-04-21 08:16:59",
+            "Book Name": "DK",
+            "Away Team": "LA Clippers",
+            "Away Spread": "-1",
+            "Away Spread Odds": "−112",
+            "Away ML": "−118",
+            "Home Team": "DEN Nuggets",
+            "Home Spread": "+1",
+            "Home Spread Odds": "−108",
+            "Home ML": "−102",
+            "Total": "216.5",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "10:00PM"
+        }
+    ]
+]
