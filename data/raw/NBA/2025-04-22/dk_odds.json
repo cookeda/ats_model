@@ -1,0 +1,56 @@
+[
+    [
+        {
+            "Scrape Time": "2025-04-22 08:29:27",
+            "Book Name": "DK",
+            "Away Team": "MIL Bucks",
+            "Away Spread": "+4",
+            "Away Spread Odds": "−108",
+            "Away ML": "+160",
+            "Home Team": "IND Pacers",
+            "Home Spread": "-4",
+            "Home Spread Odds": "−112",
+            "Home ML": "−192",
+            "Total": "229",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "7:10PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-04-22 08:29:30",
+            "Book Name": "DK",
+            "Away Team": "MEM Grizzlies",
+            "Away Spread": "+14.5",
+            "Away Spread Odds": "−110",
+            "Away ML": "+675",
+            "Home Team": "OKC Thunder",
+            "Home Spread": "-14.5",
+            "Home Spread Odds": "−110",
+            "Home ML": "−1050",
+            "Total": "229",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "7:30PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-04-22 08:29:33",
+            "Book Name": "DK",
+            "Away Team": "MIN Timberwolves",
+            "Away Spread": "+5.5",
+            "Away Spread Odds": "−108",
+            "Away ML": "+200",
+            "Home Team": "LA Lakers",
+            "Home Spread": "-5.5",
+            "Home Spread Odds": "−112",
+            "Home ML": "−245",
+            "Total": "210",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "10:00PM"
+        }
+    ]
+]
