@@ -1,0 +1,38 @@
+[
+    [
+        {
+            "Scrape Time": "2025-05-09 08:31:01",
+            "Book Name": "DK",
+            "Away Team": "CLE Cavaliers",
+            "Away Spread": "-3",
+            "Away Spread Odds": "−112",
+            "Away ML": "−148",
+            "Home Team": "IND Pacers",
+            "Home Spread": "+3",
+            "Home Spread Odds": "−108",
+            "Home ML": "+124",
+            "Total": "227",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "7:35PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2025-05-09 08:31:04",
+            "Book Name": "DK",
+            "Away Team": "OKC Thunder",
+            "Away Spread": "-5",
+            "Away Spread Odds": "−112",
+            "Away ML": "−205",
+            "Home Team": "DEN Nuggets",
+            "Home Spread": "+5",
+            "Home Spread Odds": "−108",
+            "Home ML": "+170",
+            "Total": "232.5",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "10:05PM"
+        }
+    ]
+]
