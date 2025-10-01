@@ -6,6 +6,7 @@ altair @ file:///C:/b/abs_e3bpnc8gsz/croot/altair_1738916176647/work
 amqp==5.3.1
 annotated-types==0.7.0
 antlr4-python3-runtime==4.9.3
+anyio==4.11.0
 appdirs @ file:///home/conda/feedstock_root/build_artifacts/appdirs_1603108395799/work
 asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_1698341106958/work
 async-timeout==5.0.1
@@ -16,6 +17,7 @@ Automat @ file:///home/conda/feedstock_root/build_artifacts/automat_172411677050
 bcrypt @ file:///D:/bld/bcrypt_1724960441930/work
 beautifulsoup4 @ file:///C:/b/abs_d5wytg_p0w/croot/beautifulsoup4-split_1718029833749/work
 billiard==4.2.1
+black==25.9.0
 blinker @ file:///C:/b/abs_b1i87khtob/croot/blinker_1737448732095/work
 Bottleneck @ file:///C:/b/abs_f05kqh7yvj/croot/bottleneck_1707864273291/work
 Brotli @ file:///D:/bld/brotli-split_1725267609074/work
@@ -36,6 +38,8 @@ comm @ file:///home/conda/feedstock_root/build_artifacts/comm_1710320294760/work
 configobj==5.0.9
 constantly==15.1.0
 contourpy==1.3.1
+coverage==7.10.7
+cramjam==2.11.0
 cryptography @ file:///D:/bld/cryptography-split_1729286691806/work
 cssselect @ file:///home/conda/feedstock_root/build_artifacts/cssselect_1666980406338/work
 cycler==0.12.1
@@ -59,7 +63,9 @@ exceptiongroup @ file:///C:/b/abs_c5h1o1_b5b/croot/exceptiongroup_1706031441653/
 executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1725214404607/work
 fake-useragent==1.5.1
 fasteners @ file:///tmp/build/80754af9/fasteners_1623953468841/work
+fastparquet==2024.11.0
 filelock @ file:///home/conda/feedstock_root/build_artifacts/filelock_1726613473834/work
+flake8==7.3.0
 flatten-dict==0.4.2
 flufl.lock==8.1.0
 fonttools==4.55.2
@@ -72,9 +78,11 @@ GitPython @ file:///C:/b/abs_2bkslnqz4i/croot/gitpython_1720455044865/work
 grandalf==0.8
 greenlet==3.1.1
 gto==1.7.2
-h11 @ file:///C:/b/abs_1czwoyexjf/croot/h11_1706652332846/work
+h11==0.16.0
 h2 @ file:///home/conda/feedstock_root/build_artifacts/h2_1634280454336/work
 hpack==4.0.0
+httpcore==1.0.9
+httpx==0.28.1
 hydra-core==1.3.2
 hyperframe @ file:///home/conda/feedstock_root/build_artifacts/hyperframe_1619110129307/work
 hyperlink @ file:///home/conda/feedstock_root/build_artifacts/hyperlink_1610092164190/work
@@ -83,6 +91,7 @@ imbalanced-learn==0.12.4
 imblearn==0.0
 importlib_metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1726082825846/work
 incremental @ file:///home/conda/feedstock_root/build_artifacts/incremental_1722304162160/work
+iniconfig==2.1.0
 ipykernel @ file:///D:/bld/ipykernel_1719845595208/work
 ipython @ file:///D:/bld/ipython_1729866374643/work
 itemadapter @ file:///home/conda/feedstock_root/build_artifacts/itemadapter_1715111453050/work
@@ -105,16 +114,20 @@ markdown-it-py @ file:///C:/b/abs_a5bfngz6fu/croot/markdown-it-py_1684279915556/
 MarkupSafe @ file:///C:/b/abs_a0ma7ge0jc/croot/markupsafe_1738584052792/work
 matplotlib==3.9.3
 matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1713250518406/work
+mccabe==0.7.0
 mdurl @ file:///C:/Windows/TEMP/abs_3197pzpjbi/croots/recipe/mdurl_1659716032440/work
 mkl-service==2.4.0
 mkl_fft @ file:///C:/b/abs_f55mv94vyg/croot/mkl_fft_1725370278455/work
 mkl_random @ file:///C:/b/abs_21ydbzdu8d/croot/mkl_random_1725370276095/work
 multidict==6.1.0
+mypy==1.18.2
+mypy_extensions==1.1.0
 nba_api==1.7.0
 # Editable install with no version control (nba_player_props==1.0)
 -e c:\users\dcooke\projects\sports\player-props\nba
 nest_asyncio @ file:///home/conda/feedstock_root/build_artifacts/nest-asyncio_1705850609492/work
 networkx==3.4.2
+nfl_data_py==0.3.3
 numba==0.60.0
 numexpr @ file:///C:/b/abs_05o8p7bfml/croot/numexpr_1730215959182/work
 numpy @ file:///C:/b/abs_c1ywpu18ar/croot/numpy_and_numpy_base_1708638681471/work/dist/numpy-1.26.4-cp310-cp310-win_amd64.whl#sha256=ebb5aa2b36d8afa5ec3231c19e5a1fc75b6d85e7db483f0fb9e77dad58469977
@@ -122,7 +135,7 @@ omegaconf==2.3.0
 orjson==3.10.12
 outcome @ file:///tmp/build/80754af9/outcome_1609338780791/work
 packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1718189413536/work
-pandas @ file:///C:/b/abs_9aotnvvz16/croot/pandas_1718308978393/work/dist/pandas-2.2.2-cp310-cp310-win_amd64.whl#sha256=2770820b1c01b08888f232dfafd5c214ffee1494d66958a979d587d1ec549abe
+pandas==1.5.3
 parse==1.20.2
 parsel @ file:///home/conda/feedstock_root/build_artifacts/parsel_1714637952682/work
 parso @ file:///home/conda/feedstock_root/build_artifacts/parso_1712320355065/work
@@ -132,6 +145,7 @@ Pillow==9.3.0
 platformdirs @ file:///home/conda/feedstock_root/build_artifacts/platformdirs_1726613481435/work
 playwright==1.48.0
 plotly @ file:///C:/b/abs_28qon8a90a/croot/plotly_1740385581534/work
+pluggy==1.6.0
 prompt_toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1727341649933/work
 propcache==0.2.1
 Protego @ file:///home/conda/feedstock_root/build_artifacts/protego_1712316608681/work
@@ -141,6 +155,7 @@ pure_eval @ file:///home/conda/feedstock_root/build_artifacts/pure_eval_17215857
 pyarrow==17.0.0
 pyasn1 @ file:///home/conda/feedstock_root/build_artifacts/pyasn1_1726839225972/work
 pyasn1_modules @ file:///home/conda/feedstock_root/build_artifacts/pyasn1-modules_1726029546107/work
+pycodestyle==2.14.0
 pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1711811537435/work
 pydantic==2.10.3
 pydantic_core==2.27.1
@@ -148,6 +163,7 @@ pydeck @ file:///C:/b/abs_47xw5z_59x/croot/pydeck_1738340983078/work
 PyDispatcher==2.0.5
 pydot==3.0.3
 pyee==11.1.1
+pyflakes==3.4.0
 pygit2==1.16.0
 Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1714846767233/work
 pygtrie==2.5.0
@@ -156,8 +172,11 @@ pyparsing==3.2.0
 pyppeteer==2.0.0
 pyquery==2.0.1
 PySocks @ file:///D:/bld/pysocks_1661604991356/work
+pytest==8.4.2
+pytest-cov==7.0.0
 python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1709299778482/work
 python-dotenv==1.0.1
+pytokens==0.1.10
 pytz @ file:///C:/b/abs_6ap4tsz1ox/croot/pytz_1713974360290/work
 pywin32==307
 PyYAML @ file:///C:/b/abs_14xkfs39bx/croot/pyyaml_1728657968772/work
@@ -177,6 +196,7 @@ scipy @ file:///C:/Users/dev-admin/cr_scipy-release/scipy_1731623378890/work/dis
 scmrepo==3.3.9
 Scrapy @ file:///D:/bld/scrapy_1715855579204/work
 scrapy-playwright==0.0.42
+seaborn==0.13.2
 selenium @ file:///C:/b/abs_0fryk0y0zp/croot/selenium_1727169285181/work
 semver==3.0.2
 service-identity @ file:///home/conda/feedstock_root/build_artifacts/service-identity_1723586238340/work
