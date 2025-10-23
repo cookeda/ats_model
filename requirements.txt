@@ -146,6 +146,7 @@ platformdirs @ file:///home/conda/feedstock_root/build_artifacts/platformdirs_17
 playwright==1.48.0
 plotly @ file:///C:/b/abs_28qon8a90a/croot/plotly_1740385581534/work
 pluggy==1.6.0
+plyer==2.1.0
 prompt_toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1727341649933/work
 propcache==0.2.1
 Protego @ file:///home/conda/feedstock_root/build_artifacts/protego_1712316608681/work

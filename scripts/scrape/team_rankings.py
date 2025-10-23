@@ -91,7 +91,7 @@ def main():
             "equal_rest", "four_plus_days_off", "two_three_days_off", 
             "one_day_off", "no_rest"
         ]
-        range_list = ["yearly_all", "yearly_2024_2025", "yearly_since_2014_2015"]
+        range_list = ["yearly_all", "yearly_2025_2026", "yearly_since_2015_2016"]
 
         for key in key_list:
             for range_folder in range_list:
@@ -150,7 +150,7 @@ def main():
         "all_games", "is_after_win", "is_after_loss", "is_home", "is_away", "is_fav", "is_dog", 
         "rest_advantage", "rest_disadvantage", "equal_rest", "four_plus_days_off", 
         "two_three_days_off", "one_day_off", "no_rest"
-    ]) * len(["yearly_all", "current", "yearly_since_2014_2015"])
+    ]) * len(["yearly_all", "current", "yearly_since_2015_2016"])
 
     with ThreadPoolExecutor(max_workers=2) as executor:
         futures = [executor.submit(process_league, league, today_date) for league in league_list]
